@@ -1,0 +1,969 @@
+﻿Tilausnumero,Päivämäärä,Tuote,Tuoteryhmä,Alue,Määrä,Yksikköhinta,Asiakas
+T100001,2026-06-28,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,1.0,1015.21,Asiakas 024
+T100002,2026-01-28,Työtuoli,Kalusteet,Uusimaa,4.0,499.09,Asiakas 041
+T100003,2026-05-13,Tulostin,Toimistolaitteet,Keski-Suomi,6.0,286.69,Asiakas 083
+T100004,2026-05-20,Hiiri,Tarvikkeet,Keski-Suomi,2.0,51.24,Asiakas 019
+T100005,2026-05-11,Hiiri,Tarvikkeet,Pohjois-Savo,3.0,67.59,Asiakas 063
+T100006,2026-09-09,Työtuoli,Kalusteet,Pohjois-Karjala,1.0,298.51,Asiakas 002
+T100008,2026-09-23,Tulostin,Toimistolaitteet,Pirkanmaa,9.0,354.21,Asiakas 030
+T100009,2026-01-19,Näyttö,Tietotekniikka,Keski-Suomi,9.0,547.88,Asiakas 082
+T100010,2026-07-20,Kannettava tietokone,Tietotekniikka,Uusimaa,4.0,1620.06,Asiakas 110
+T100011,2026-06-11,Kuulokkeet,Tarvikkeet,Pirkanmaa,6.0,139.8,Asiakas 018
+T100012,2026-03-07,Työpöytä,Kalusteet,Uusimaa,10.0,501.57,Asiakas 096
+T100013,2026-03-04,Tulostin,Toimistolaitteet,Pohjois-Karjala,6.0,376.95,Asiakas 079
+T100014,2026-07-16,Työtuoli,Kalusteet,Pirkanmaa,3.0,276.79,Asiakas 117
+T100015,2026-06-24,Tulostin,Toimistolaitteet,Varsinais-Suomi,4.0,390.46,Asiakas 110
+T100016,2026-06-16,Työtuoli,Kalusteet,Keski-Suomi,8.0,361.25,Asiakas 013
+T100017,2026-01-14,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,5.0,54.49,Asiakas 090
+T100018,2026-06-13,Näyttö,Tietotekniikka,Pohjois-Karjala,9.0,181.43,Asiakas 072
+T100019,2026-09-25,Työtuoli,Kalusteet,Pohjois-Savo,9.0,524.74,Asiakas 014
+T100020,2026-01-05,Hiiri,Tarvikkeet,Uusimaa,1.0,19.67,Asiakas 031
+T100022,2026-05-15,Näppäimistö,Tarvikkeet,Keski-Suomi,4.0,66.43,Asiakas 066
+T100023,2026-09-02,Näyttö,Tietotekniikka,Varsinais-Suomi,6.0,226.85,Asiakas 041
+T100024,2026-03-19,Työpöytä,Kalusteet,Pirkanmaa,3.0,373.61,Asiakas 039
+T100025,2026-05-10,Työtuoli,Kalusteet,Uusimaa,4.0,478.07,Asiakas 101
+T100026,2026-07-15,Tulostin,Toimistolaitteet,Keski-Suomi,4.0,94.29,Asiakas 035
+T100027,2026-01-17,Hiiri,Tarvikkeet,Pohjois-Karjala,1.0,84.48,Asiakas 020
+T100028,2026-08-07,Työtuoli,Kalusteet,Uusimaa,8.0,531.58,Asiakas 069
+T100029,2026-08-13,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,2.0,110.9,Asiakas 120
+T100030,2026-07-16,Hiiri,Tarvikkeet,Varsinais-Suomi,4.0,27.9,Asiakas 022
+T100032,2026-07-24,Näyttö,Tietotekniikka,Keski-Suomi,2.0,202.85,Asiakas 057
+T100033,2026-08-02,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,4.0,1063.92,Asiakas 024
+T100034,2026-09-04,Kuulokkeet,Tarvikkeet,Uusimaa,10.0,239.85,Asiakas 079
+T100035,2026-04-27,Työpöytä,Kalusteet,Pohjois-Savo,10.0,796.19,Asiakas 031
+T100036,2026-05-05,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,4.0,1471.1,Asiakas 016
+T100037,2026-06-24,Työtuoli,Kalusteet,Varsinais-Suomi,6.0,275.15,Tuntematon
+T100038,2026-02-22,Työtuoli,Kalusteet,Keski-Suomi,10.0,452.2,Asiakas 112
+T100039,2026-08-22,Näppäimistö,Tarvikkeet,Varsinais-Suomi,3.0,112.47,Asiakas 113
+T100040,2026-07-30,Tulostin,Toimistolaitteet,Pohjois-Savo,10.0,228.62,Asiakas 061
+T100041,2026-06-22,Näyttö,Tietotekniikka,Pirkanmaa,2.0,437.4,Asiakas 049
+T100042,2026-03-24,Työtuoli,Kalusteet,Pohjois-Savo,3.0,134.04,Asiakas 099
+T100043,2026-04-05,Tulostin,Toimistolaitteet,Pohjois-Karjala,4.0,164.26,Asiakas 024
+T100044,2026-04-29,Näppäimistö,Tarvikkeet,Pohjois-Karjala,1.0,90.11,Asiakas 079
+T100045,2026-06-30,Kannettava tietokone,Tietotekniikka,Keski-Suomi,9.0,862.75,Asiakas 082
+T100046,2026-08-01,Työpöytä,Kalusteet,Pirkanmaa,9.0,281.86,Asiakas 086
+T100047,2026-07-03,Hiiri,Tarvikkeet,Uusimaa,4.0,85.25,Asiakas 027
+T100048,2026-09-11,Työpöytä,Kalusteet,Pohjois-Savo,9.0,792.26,Asiakas 086
+T100049,2026-09-20,Tulostin,Toimistolaitteet,Pirkanmaa,8.0,289.15,Asiakas 074
+T100050,2026-07-12,Työtuoli,Kalusteet,Pirkanmaa,9.0,523.36,Asiakas 106
+T100051,2026-04-12,Työtuoli,Kalusteet,Pohjois-Karjala,9.0,594.45,Asiakas 021
+T100052,2026-06-13,Näyttö,Tietotekniikka,Pohjois-Karjala,6.0,212.72,Asiakas 074
+T100053,2026-04-27,Näppäimistö,Tarvikkeet,Pohjois-Savo,2.0,80.58,Asiakas 100
+T100054,2026-06-21,Hiiri,Tarvikkeet,Uusimaa,10.0,47.98,Asiakas 034
+T100055,2026-08-10,Hiiri,Tarvikkeet,Varsinais-Suomi,7.0,21.72,Asiakas 090
+T100056,2026-04-11,Kannettava tietokone,Tietotekniikka,Pirkanmaa,10.0,1454.33,Asiakas 012
+T100057,2026-05-19,Kuulokkeet,Tarvikkeet,Pohjois-Savo,10.0,124.43,Asiakas 087
+T100058,2026-01-13,Näyttö,Tietotekniikka,Keski-Suomi,2.0,360.2,Asiakas 073
+T100059,2026-07-21,Tulostin,Toimistolaitteet,Pohjois-Karjala,5.0,143.24,Asiakas 024
+T100060,2026-05-14,Tulostin,Toimistolaitteet,Varsinais-Suomi,2.0,154.13,Asiakas 008
+T100061,2026-05-06,Työpöytä,Kalusteet,Uusimaa,1.0,741.4,Asiakas 090
+T100062,2026-05-26,Tulostin,Toimistolaitteet,Keski-Suomi,10.0,105.07,Asiakas 029
+T100063,2026-02-28,Näppäimistö,Tarvikkeet,Pohjois-Savo,10.0,53.87,Asiakas 060
+T100064,2026-06-13,Työpöytä,Kalusteet,Pirkanmaa,10.0,360.08,Asiakas 008
+T100065,2026-07-23,Hiiri,Tarvikkeet,Pohjois-Karjala,9.0,56.18,Asiakas 116
+T100066,2026-04-06,Näppäimistö,Tarvikkeet,Keski-Suomi,7.0,97.72,Asiakas 066
+T100067,2026-02-05,Työpöytä,Kalusteet,Uusimaa,6.0,484.84,Asiakas 112
+T100068,2026-04-16,Näppäimistö,Tarvikkeet,Varsinais-Suomi,10.0,35.43,Asiakas 020
+T100069,2026-02-24,Kannettava tietokone,Tietotekniikka,Uusimaa,6.0,942.67,Asiakas 025
+T100070,2026-04-13,Hiiri,Tarvikkeet,Pohjois-Savo,7.0,85.86,Asiakas 074
+T100071,2026-06-21,Työtuoli,Kalusteet,Pirkanmaa,3.0,428.67,Asiakas 073
+T100072,2026-01-31,Näyttö,Tietotekniikka,Keski-Suomi,8.0,441.12,Asiakas 095
+T100073,2026-07-24,Hiiri,Tarvikkeet,Pohjois-Karjala,9.0,71.3,Asiakas 112
+T100074,2026-03-03,Näyttö,Tietotekniikka,Pirkanmaa,7.0,492.31,Asiakas 099
+T100075,2026-09-02,Tulostin,Toimistolaitteet,Uusimaa,5.0,109.92,Asiakas 017
+T100076,2026-07-19,Hiiri,Tarvikkeet,Pohjois-Savo,2.0,45.8,Asiakas 038
+T100077,2026-03-16,Näppäimistö,Tarvikkeet,Uusimaa,1.0,91.9,Asiakas 110
+T100079,2026-01-31,Kuulokkeet,Tarvikkeet,Uusimaa,7.0,214.79,Asiakas 105
+T100080,2026-01-28,Tulostin,Toimistolaitteet,Pohjois-Karjala,8.0,262.73,Asiakas 068
+T100081,2026-09-19,Työpöytä,Kalusteet,Pohjois-Savo,10.0,655.55,Asiakas 006
+T100082,2026-08-08,Hiiri,Tarvikkeet,Pohjois-Savo,5.0,86.57,Asiakas 057
+T100083,2026-02-12,Näyttö,Tietotekniikka,Varsinais-Suomi,9.0,376.16,Asiakas 099
+T100084,2026-03-19,Työtuoli,Kalusteet,Uusimaa,8.0,556.49,Asiakas 079
+T100085,2026-02-23,Tulostin,Toimistolaitteet,Pirkanmaa,3.0,300.36,Asiakas 016
+T100086,2026-04-18,Tulostin,Toimistolaitteet,Pohjois-Savo,9.0,395.1,Asiakas 026
+T100087,2026-03-21,Kannettava tietokone,Tietotekniikka,Uusimaa,1.0,1039.59,Asiakas 103
+T100088,2026-03-31,Näppäimistö,Tarvikkeet,Pirkanmaa,6.0,86.85,Asiakas 118
+T100089,2026-05-25,Työtuoli,Kalusteet,Pohjois-Karjala,10.0,378.76,Asiakas 091
+T100090,2026-02-21,Työtuoli,Kalusteet,Pirkanmaa,7.0,178.34,Asiakas 012
+T100091,2026-08-30,Hiiri,Tarvikkeet,Varsinais-Suomi,10.0,48.48,Asiakas 075
+T100092,2026-07-18,Työtuoli,Kalusteet,Varsinais-Suomi,1.0,560.15,Asiakas 100
+T100093,2026-07-27,Työtuoli,Kalusteet,Uusimaa,6.0,425.49,Asiakas 077
+T100094,2026-02-16,Hiiri,Tarvikkeet,Uusimaa,8.0,29.91,Asiakas 072
+T100095,2026-07-13,Työpöytä,Kalusteet,Pirkanmaa,7.0,389.09,Asiakas 057
+T100096,2026-08-17,Näppäimistö,Tarvikkeet,Pohjois-Savo,9.0,48.76,Asiakas 030
+T100097,2026-02-17,Näyttö,Tietotekniikka,Pohjois-Karjala,5.0,160.17,Asiakas 034
+T100098,2026-07-25,Tulostin,Toimistolaitteet,Varsinais-Suomi,7.0,422.89,Asiakas 090
+T100099,2026-04-08,Tulostin,Toimistolaitteet,Uusimaa,5.0,250.35,Asiakas 009
+T100100,2026-08-04,Näyttö,Tietotekniikka,Pirkanmaa,9.0,287.39,Asiakas 011
+T100101,2026-05-11,Työtuoli,Kalusteet,Uusimaa,2.0,410.28,Asiakas 048
+T100102,2026-08-08,Näyttö,Tietotekniikka,Varsinais-Suomi,3.0,152.29,Asiakas 093
+T100103,2026-02-10,Työtuoli,Kalusteet,Pohjois-Karjala,1.0,259.67,Asiakas 079
+T100104,2026-04-17,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,8.0,1402.03,Asiakas 071
+T100105,2026-03-16,Työtuoli,Kalusteet,Pirkanmaa,3.0,426.87,Asiakas 065
+T100106,2026-03-09,Työtuoli,Kalusteet,Pohjois-Savo,4.0,590.45,Asiakas 014
+T100107,2026-03-26,Työtuoli,Kalusteet,Pirkanmaa,9.0,420.57,Asiakas 040
+T100108,2026-04-15,Tulostin,Toimistolaitteet,Uusimaa,4.0,260.9,Asiakas 010
+T100109,2026-02-04,Hiiri,Tarvikkeet,Pirkanmaa,2.0,78.96,Asiakas 091
+T100110,2026-07-13,Tulostin,Toimistolaitteet,Pirkanmaa,1.0,414.2,Asiakas 091
+T100111,2026-05-31,Näppäimistö,Tarvikkeet,Uusimaa,3.0,114.37,Asiakas 031
+T100112,2026-08-15,Työtuoli,Kalusteet,Pirkanmaa,10.0,581.71,Asiakas 036
+T100113,2026-07-12,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,6.0,201.04,Asiakas 039
+T100114,2026-02-10,Hiiri,Tarvikkeet,Pohjois-Karjala,10.0,87.81,Asiakas 107
+T100115,2026-01-20,Kuulokkeet,Tarvikkeet,Pohjois-Savo,3.0,54.1,Asiakas 059
+T100116,2026-04-26,Kuulokkeet,Tarvikkeet,Pirkanmaa,4.0,190.13,Asiakas 092
+T100117,2026-05-12,Kannettava tietokone,Tietotekniikka,Keski-Suomi,2.0,1139.09,Asiakas 054
+T100118,2026-03-07,Näyttö,Tietotekniikka,Varsinais-Suomi,4.0,397.9,Asiakas 084
+T100119,2026-08-02,Näyttö,Tietotekniikka,Uusimaa,6.0,443.35,Asiakas 064
+T100120,2026-06-08,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,9.0,1668.82,Asiakas 034
+T100121,2026-07-24,Hiiri,Tarvikkeet,Pohjois-Savo,4.0,97.7,Asiakas 106
+T100122,2026-01-30,Tulostin,Toimistolaitteet,Pohjois-Savo,8.0,192.76,Asiakas 086
+T100123,2026-08-11,Tulostin,Toimistolaitteet,Varsinais-Suomi,7.0,353.15,Asiakas 093
+T100124,2026-02-26,Hiiri,Tarvikkeet,Varsinais-Suomi,3.0,78.0,Asiakas 114
+T100125,2026-05-03,Työtuoli,Kalusteet,Pohjois-Karjala,10.0,291.85,Asiakas 030
+T100126,2026-04-30,Kuulokkeet,Tarvikkeet,Pirkanmaa,5.0,56.25,Asiakas 011
+T100127,2026-08-13,Kannettava tietokone,Tietotekniikka,Keski-Suomi,2.0,739.95,Asiakas 070
+T100128,2026-03-17,Työtuoli,Kalusteet,Pirkanmaa,10.0,494.35,Asiakas 040
+T100129,2026-03-07,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,10.0,136.73,Asiakas 053
+T100130,2026-04-03,Tulostin,Toimistolaitteet,Pohjois-Savo,1.0,443.79,Asiakas 029
+T100131,2026-04-09,Kuulokkeet,Tarvikkeet,Pohjois-Savo,10.0,131.29,Asiakas 048
+T100132,2026-02-19,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,10.0,244.14,Asiakas 048
+T100133,2026-02-18,Kannettava tietokone,Tietotekniikka,Keski-Suomi,9.0,1110.58,Asiakas 043
+T100134,2026-03-05,Kuulokkeet,Tarvikkeet,Keski-Suomi,3.0,203.61,Asiakas 090
+T100135,2026-05-08,Työtuoli,Kalusteet,Uusimaa,7.0,168.87,Asiakas 072
+T100136,2026-04-04,Näppäimistö,Tarvikkeet,Pohjois-Savo,6.0,93.88,Asiakas 057
+T100137,2026-04-18,Kuulokkeet,Tarvikkeet,Keski-Suomi,7.0,205.45,Asiakas 014
+T100138,2026-07-16,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,7.0,1623.7,Asiakas 069
+T100139,2026-03-07,Näppäimistö,Tarvikkeet,Uusimaa,7.0,127.0,Asiakas 022
+T100140,2026-09-06,Hiiri,Tarvikkeet,Pohjois-Karjala,6.0,18.11,Asiakas 038
+T100141,2026-07-25,Työpöytä,Kalusteet,Keski-Suomi,7.0,410.08,Asiakas 050
+T100142,2026-02-17,Näyttö,Tietotekniikka,Uusimaa,6.0,170.91,Asiakas 017
+T100143,2026-03-27,Näppäimistö,Tarvikkeet,Pohjois-Karjala,1.0,38.55,Asiakas 047
+T100144,2026-02-20,Hiiri,Tarvikkeet,Pohjois-Karjala,1.0,71.73,Asiakas 033
+T100145,2026-03-16,Työpöytä,Kalusteet,Varsinais-Suomi,10.0,621.22,Asiakas 102
+T100146,2026-04-10,Työtuoli,Kalusteet,Varsinais-Suomi,10.0,492.65,Asiakas 104
+T100147,2026-02-05,Kannettava tietokone,Tietotekniikka,Uusimaa,6.0,1564.46,Asiakas 001
+T100148,2026-01-04,Näyttö,Tietotekniikka,Keski-Suomi,2.0,481.74,Asiakas 073
+T100149,2026-04-30,Työtuoli,Kalusteet,Keski-Suomi,8.0,505.41,Asiakas 077
+T100150,2026-07-11,Kannettava tietokone,Tietotekniikka,Keski-Suomi,2.0,747.96,Asiakas 046
+T100151,2026-03-24,Työtuoli,Kalusteet,Pohjois-Karjala,4.0,239.23,Asiakas 057
+T100152,2026-08-23,Näppäimistö,Tarvikkeet,Pohjois-Savo,4.0,102.12,Asiakas 095
+T100153,2026-04-11,Työpöytä,Kalusteet,Pirkanmaa,1.0,711.04,Asiakas 046
+T100154,2026-09-03,Näppäimistö,Tarvikkeet,Pirkanmaa,9.0,25.56,Asiakas 008
+T100155,2026-03-06,Hiiri,Tarvikkeet,Keski-Suomi,6.0,58.23,Asiakas 045
+T100156,2026-05-28,Tulostin,Toimistolaitteet,Varsinais-Suomi,4.0,332.82,Asiakas 031
+T100157,2026-07-28,Näyttö,Tietotekniikka,Varsinais-Suomi,6.0,162.32,Asiakas 046
+T100158,2026-01-17,Kuulokkeet,Tarvikkeet,Pohjois-Savo,1.0,117.3,Asiakas 028
+T100159,2026-09-11,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,5.0,226.04,Asiakas 018
+T100160,2026-04-10,Työtuoli,Kalusteet,Pirkanmaa,6.0,444.66,Asiakas 119
+T100161,2026-05-16,Työpöytä,Kalusteet,Pohjois-Savo,4.0,326.35,Asiakas 016
+T100162,2026-06-21,Tulostin,Toimistolaitteet,Keski-Suomi,9.0,396.0,Asiakas 085
+T100163,2026-06-25,Hiiri,Tarvikkeet,Uusimaa,3.0,44.23,Asiakas 087
+T100164,2026-01-07,Hiiri,Tarvikkeet,Pohjois-Savo,2.0,86.68,Asiakas 075
+T100165,2026-08-25,Hiiri,Tarvikkeet,Pohjois-Savo,6.0,40.11,Asiakas 110
+T100166,2026-06-20,Työtuoli,Kalusteet,Pirkanmaa,9.0,406.45,Asiakas 001
+T100167,2026-09-30,Näppäimistö,Tarvikkeet,Pohjois-Savo,4.0,74.22,Asiakas 037
+T100168,2026-05-09,Näyttö,Tietotekniikka,Keski-Suomi,1.0,272.67,Asiakas 023
+T100169,2026-06-17,Näppäimistö,Tarvikkeet,Varsinais-Suomi,10.0,134.93,Asiakas 070
+T100170,2026-05-01,Kannettava tietokone,Tietotekniikka,Uusimaa,5.0,886.59,Asiakas 077
+T100171,2026-08-31,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,2.0,783.81,Asiakas 108
+T100172,2026-08-16,Kannettava tietokone,Tietotekniikka,Pirkanmaa,7.0,1040.93,Asiakas 046
+T100173,2026-09-06,Työtuoli,Kalusteet,Pohjois-Savo,4.0,466.29,Asiakas 029
+T100174,2026-05-18,Tulostin,Toimistolaitteet,Keski-Suomi,10.0,379.68,Asiakas 111
+T100175,2026-08-05,Tulostin,Toimistolaitteet,Uusimaa,3.0,448.55,Asiakas 081
+T100176,2026-04-08,Hiiri,Tarvikkeet,Pirkanmaa,6.0,39.89,Asiakas 092
+T100177,2026-05-06,Tulostin,Toimistolaitteet,Pohjois-Savo,6.0,235.86,Asiakas 054
+T100178,2026-07-27,Näyttö,Tietotekniikka,Pohjois-Savo,3.0,210.57,Asiakas 054
+T100179,2026-01-23,Työpöytä,Kalusteet,Uusimaa,5.0,535.42,Asiakas 047
+T100180,2026-07-13,Kuulokkeet,Tarvikkeet,Pohjois-Savo,2.0,248.47,Asiakas 090
+T100181,2026-01-05,Työpöytä,Kalusteet,Pohjois-Karjala,7.0,613.55,Asiakas 026
+T100182,2026-06-08,Näyttö,Tietotekniikka,Keski-Suomi,8.0,416.85,Asiakas 118
+T100183,2026-05-11,Hiiri,Tarvikkeet,Keski-Suomi,10.0,47.96,Asiakas 022
+T100184,2026-05-08,Tulostin,Toimistolaitteet,Uusimaa,4.0,418.51,Asiakas 056
+T100185,2026-05-15,Hiiri,Tarvikkeet,Pohjois-Karjala,3.0,56.74,Asiakas 038
+T100186,2026-05-15,Hiiri,Tarvikkeet,Varsinais-Suomi,6.0,26.29,Asiakas 078
+T100187,2026-04-22,Näyttö,Tietotekniikka,Pohjois-Savo,7.0,313.42,Asiakas 082
+T100188,2026-05-04,Hiiri,Tarvikkeet,Pohjois-Savo,10.0,20.64,Asiakas 111
+T100189,2026-06-05,Näyttö,Tietotekniikka,Varsinais-Suomi,1.0,239.89,Asiakas 095
+T100190,2026-07-28,Näppäimistö,Tarvikkeet,Pirkanmaa,3.0,27.19,Asiakas 030
+T100191,2026-05-31,Tulostin,Toimistolaitteet,Pohjois-Savo,3.0,252.18,Asiakas 025
+T100192,2026-06-25,Tulostin,Toimistolaitteet,Keski-Suomi,3.0,317.43,Asiakas 107
+T100193,2026-08-17,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,5.0,104.52,Asiakas 059
+T100194,2026-09-28,Näppäimistö,Tarvikkeet,Varsinais-Suomi,9.0,77.13,Asiakas 012
+T100196,2026-07-14,Kannettava tietokone,Tietotekniikka,Keski-Suomi,9.0,1450.96,Asiakas 078
+T100197,2026-03-03,Näppäimistö,Tarvikkeet,Keski-Suomi,7.0,92.07,Asiakas 004
+T100198,2026-02-23,Kannettava tietokone,Tietotekniikka,Uusimaa,7.0,983.54,Asiakas 094
+T100199,2026-08-05,Näppäimistö,Tarvikkeet,Keski-Suomi,7.0,136.23,Asiakas 073
+T100200,2026-01-19,Työpöytä,Kalusteet,Varsinais-Suomi,2.0,324.76,Asiakas 074
+T100201,2026-08-20,Näppäimistö,Tarvikkeet,Pohjois-Karjala,8.0,65.34,Asiakas 104
+T100202,2026-07-30,Työpöytä,Kalusteet,Keski-Suomi,3.0,742.62,Asiakas 060
+T100203,2026-09-29,Hiiri,Tarvikkeet,Pohjois-Savo,6.0,59.48,Asiakas 056
+T100204,2026-07-02,Tulostin,Toimistolaitteet,Pirkanmaa,7.0,356.23,Asiakas 075
+T100205,2026-08-27,Hiiri,Tarvikkeet,Pohjois-Savo,7.0,64.62,Asiakas 024
+T100206,2026-02-02,Näppäimistö,Tarvikkeet,Uusimaa,4.0,106.03,Asiakas 019
+T100207,2026-08-31,Työtuoli,Kalusteet,Pirkanmaa,4.0,269.71,Asiakas 102
+T100208,2026-02-13,Työpöytä,Kalusteet,Keski-Suomi,5.0,328.65,Asiakas 026
+T100209,2026-03-27,Näppäimistö,Tarvikkeet,Keski-Suomi,1.0,64.99,Asiakas 061
+T100210,2026-02-04,Työtuoli,Kalusteet,Pirkanmaa,8.0,202.06,Asiakas 033
+T100211,2026-04-20,Näppäimistö,Tarvikkeet,Uusimaa,1.0,133.41,Asiakas 028
+T100212,2026-07-24,Tulostin,Toimistolaitteet,Varsinais-Suomi,5.0,190.97,Asiakas 072
+T100213,2026-03-15,Työtuoli,Kalusteet,Keski-Suomi,7.0,392.9,Asiakas 097
+T100214,2026-08-13,Hiiri,Tarvikkeet,Keski-Suomi,1.0,81.53,Asiakas 054
+T100215,2026-06-15,Tulostin,Toimistolaitteet,Uusimaa,10.0,371.18,Asiakas 017
+T100216,2026-06-21,Näppäimistö,Tarvikkeet,Uusimaa,4.0,79.36,Asiakas 030
+T100217,2026-09-14,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,1.0,1175.26,Asiakas 020
+T100218,2026-04-28,Kannettava tietokone,Tietotekniikka,Uusimaa,7.0,1693.7,Asiakas 106
+T100219,2026-04-05,Hiiri,Tarvikkeet,Uusimaa,6.0,71.67,Asiakas 039
+T100220,2026-09-29,Työpöytä,Kalusteet,Pohjois-Savo,7.0,684.08,Asiakas 045
+T100221,2026-06-02,Näyttö,Tietotekniikka,Pirkanmaa,8.0,555.15,Asiakas 009
+T100222,2026-06-17,Hiiri,Tarvikkeet,Pirkanmaa,5.0,81.16,Asiakas 054
+T100223,2026-03-22,Tulostin,Toimistolaitteet,Varsinais-Suomi,9.0,155.66,Asiakas 110
+T100224,2026-02-28,Näyttö,Tietotekniikka,Uusimaa,4.0,401.98,Asiakas 050
+T100225,2026-02-16,Tulostin,Toimistolaitteet,Pohjois-Karjala,6.0,125.68,Asiakas 079
+T100226,2026-03-03,Näppäimistö,Tarvikkeet,Pohjois-Karjala,2.0,105.96,Asiakas 022
+T100227,2026-02-23,Työtuoli,Kalusteet,Pirkanmaa,7.0,578.01,Asiakas 018
+T100228,2026-07-23,Kuulokkeet,Tarvikkeet,Uusimaa,3.0,141.8,Asiakas 088
+T100229,2026-01-16,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,7.0,124.25,Asiakas 008
+T100230,2026-06-21,Näyttö,Tietotekniikka,Pohjois-Karjala,9.0,165.13,Asiakas 054
+T100231,2026-09-17,Hiiri,Tarvikkeet,Pirkanmaa,9.0,95.62,Asiakas 039
+T100232,2026-07-28,Työtuoli,Kalusteet,Uusimaa,10.0,177.41,Asiakas 002
+T100233,2026-04-20,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,2.0,740.08,Asiakas 064
+T100234,2026-01-17,Työtuoli,Kalusteet,Pirkanmaa,2.0,244.65,Asiakas 116
+T100235,2026-08-16,Hiiri,Tarvikkeet,Pirkanmaa,10.0,20.5,Asiakas 009
+T100236,2026-01-01,Tulostin,Toimistolaitteet,Pirkanmaa,4.0,252.84,Asiakas 098
+T100237,2026-07-06,Tulostin,Toimistolaitteet,Uusimaa,1.0,274.79,Asiakas 065
+T100238,2026-07-03,Hiiri,Tarvikkeet,Pohjois-Karjala,3.0,41.26,Asiakas 087
+T100239,2026-02-22,Näppäimistö,Tarvikkeet,Pirkanmaa,9.0,31.32,Asiakas 012
+T100240,2026-07-21,Tulostin,Toimistolaitteet,Pirkanmaa,4.0,129.18,Asiakas 105
+T100241,2026-02-17,Näyttö,Tietotekniikka,Varsinais-Suomi,1.0,322.03,Asiakas 002
+T100242,2026-03-03,Kuulokkeet,Tarvikkeet,Pirkanmaa,8.0,42.32,Asiakas 109
+T100243,2026-08-10,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,2.0,1397.19,Asiakas 079
+T100244,2026-09-25,Tulostin,Toimistolaitteet,Keski-Suomi,4.0,163.53,Asiakas 041
+T100245,2026-03-14,Tulostin,Toimistolaitteet,Pohjois-Savo,1.0,197.75,Asiakas 001
+T100246,2026-09-09,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,7.0,1093.13,Asiakas 074
+T100247,2026-09-07,Työtuoli,Kalusteet,Uusimaa,5.0,324.81,Asiakas 011
+T100248,2026-07-30,Hiiri,Tarvikkeet,Uusimaa,9.0,15.14,Asiakas 074
+T100249,2026-02-08,Työtuoli,Kalusteet,Pohjois-Savo,4.0,181.67,Asiakas 093
+T100250,2026-03-23,Kannettava tietokone,Tietotekniikka,Keski-Suomi,3.0,1561.76,Asiakas 033
+T100251,2026-07-05,Näyttö,Tietotekniikka,Pirkanmaa,2.0,149.55,Asiakas 029
+T100252,2026-09-30,Hiiri,Tarvikkeet,Pirkanmaa,3.0,57.69,Asiakas 027
+T100253,2026-08-11,Näyttö,Tietotekniikka,Pohjois-Karjala,5.0,369.28,Asiakas 027
+T100254,2026-04-25,Näppäimistö,Tarvikkeet,Pohjois-Savo,1.0,66.3,Asiakas 014
+T100255,2026-03-06,Tulostin,Toimistolaitteet,Varsinais-Suomi,5.0,244.28,Asiakas 030
+T100256,2026-09-20,Näyttö,Tietotekniikka,Pirkanmaa,9.0,500.26,Asiakas 080
+T100257,2026-03-17,Tulostin,Toimistolaitteet,Varsinais-Suomi,8.0,391.83,Tuntematon
+T100258,2026-04-04,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,7.0,959.35,Asiakas 094
+T100259,2026-09-21,Näyttö,Tietotekniikka,Keski-Suomi,9.0,294.12,Asiakas 099
+T100260,2026-06-03,Kuulokkeet,Tarvikkeet,Uusimaa,8.0,82.35,Asiakas 092
+T100261,2026-03-14,Työtuoli,Kalusteet,Pohjois-Karjala,7.0,354.54,Asiakas 065
+T100262,2026-01-02,Näyttö,Tietotekniikka,Pohjois-Karjala,9.0,456.47,Asiakas 038
+T100263,2026-04-28,Näppäimistö,Tarvikkeet,Pirkanmaa,2.0,53.3,Asiakas 112
+T100264,2026-09-27,Työpöytä,Kalusteet,Pohjois-Savo,9.0,384.06,Asiakas 025
+T100265,2026-04-29,Työpöytä,Kalusteet,Uusimaa,3.0,755.84,Asiakas 056
+T100266,2026-07-10,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,8.0,39.69,Asiakas 055
+T100267,2026-03-11,Hiiri,Tarvikkeet,Keski-Suomi,10.0,53.7,Asiakas 090
+T100268,2026-07-31,Näppäimistö,Tarvikkeet,Keski-Suomi,5.0,113.23,Asiakas 066
+T100269,2026-07-31,Kuulokkeet,Tarvikkeet,Uusimaa,1.0,62.1,Asiakas 096
+T100270,2026-06-16,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,4.0,39.42,Asiakas 111
+T100271,2026-07-30,Näppäimistö,Tarvikkeet,Pohjois-Savo,5.0,42.14,Asiakas 047
+T100272,2026-06-08,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,10.0,1617.82,Asiakas 105
+T100273,2026-04-14,Näyttö,Tietotekniikka,Pirkanmaa,10.0,153.17,Asiakas 021
+T100274,2026-07-21,Työpöytä,Kalusteet,Pohjois-Karjala,6.0,295.76,Asiakas 110
+T100275,2026-08-16,Hiiri,Tarvikkeet,Pohjois-Karjala,10.0,17.63,Asiakas 022
+T100276,2026-08-18,Hiiri,Tarvikkeet,Keski-Suomi,5.0,24.29,Asiakas 103
+T100277,2026-02-28,Hiiri,Tarvikkeet,Pirkanmaa,5.0,67.09,Asiakas 047
+T100278,2026-07-04,Työtuoli,Kalusteet,Pirkanmaa,9.0,242.57,Asiakas 116
+T100279,2026-01-02,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,7.0,1268.21,Asiakas 016
+T100280,2026-06-06,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,6.0,1289.2,Asiakas 056
+T100281,2026-06-05,Näppäimistö,Tarvikkeet,Pohjois-Savo,5.0,130.33,Asiakas 109
+T100282,2026-04-10,Hiiri,Tarvikkeet,Varsinais-Suomi,8.0,15.4,Asiakas 006
+T100283,2026-09-29,Tulostin,Toimistolaitteet,Pohjois-Karjala,8.0,396.21,Asiakas 032
+T100285,2026-01-11,Hiiri,Tarvikkeet,Pohjois-Karjala,1.0,28.67,Asiakas 039
+T100286,2026-02-27,Työpöytä,Kalusteet,Uusimaa,2.0,658.22,Asiakas 047
+T100287,2026-02-26,Näyttö,Tietotekniikka,Pirkanmaa,2.0,533.97,Asiakas 075
+T100288,2026-09-03,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,5.0,84.94,Asiakas 031
+T100289,2026-05-22,Kuulokkeet,Tarvikkeet,Pirkanmaa,7.0,231.13,Asiakas 020
+T100290,2026-07-18,Hiiri,Tarvikkeet,Pohjois-Savo,9.0,53.17,Asiakas 021
+T100291,2026-08-10,Työtuoli,Kalusteet,Pohjois-Savo,3.0,412.61,Asiakas 113
+T100292,2026-07-29,Näppäimistö,Tarvikkeet,Pohjois-Savo,8.0,147.1,Asiakas 115
+T100293,2026-01-25,Työpöytä,Kalusteet,Varsinais-Suomi,7.0,403.15,Asiakas 027
+T100294,2026-02-08,Näppäimistö,Tarvikkeet,Uusimaa,1.0,125.83,Asiakas 024
+T100295,2026-04-18,Kuulokkeet,Tarvikkeet,Uusimaa,4.0,99.05,Asiakas 007
+T100296,2026-04-03,Kuulokkeet,Tarvikkeet,Pohjois-Savo,4.0,204.83,Asiakas 116
+T100297,2026-07-23,Työtuoli,Kalusteet,Keski-Suomi,9.0,411.34,Asiakas 085
+T100298,2026-02-12,Hiiri,Tarvikkeet,Pohjois-Savo,10.0,33.17,Asiakas 092
+T100299,2026-04-12,Näppäimistö,Tarvikkeet,Pohjois-Karjala,9.0,76.34,Asiakas 035
+T100300,2026-03-06,Kannettava tietokone,Tietotekniikka,Uusimaa,6.0,1016.64,Asiakas 077
+T100301,2026-02-21,Näppäimistö,Tarvikkeet,Pirkanmaa,5.0,34.69,Asiakas 008
+T100302,2026-02-17,Työtuoli,Kalusteet,Uusimaa,4.0,143.02,Asiakas 082
+T100303,2026-02-23,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,8.0,1045.48,Asiakas 070
+T100304,2026-06-04,Työpöytä,Kalusteet,Pohjois-Savo,1.0,190.8,Asiakas 040
+T100305,2026-04-22,Kuulokkeet,Tarvikkeet,Pirkanmaa,3.0,65.41,Asiakas 086
+T100306,2026-04-29,Näyttö,Tietotekniikka,Uusimaa,2.0,475.33,Asiakas 078
+T100307,2026-05-11,Näppäimistö,Tarvikkeet,Uusimaa,5.0,112.8,Asiakas 053
+T100308,2026-07-22,Kuulokkeet,Tarvikkeet,Uusimaa,3.0,191.49,Asiakas 023
+T100309,2026-08-24,Näppäimistö,Tarvikkeet,Keski-Suomi,2.0,64.33,Asiakas 003
+T100310,2026-05-24,Kannettava tietokone,Tietotekniikka,Pirkanmaa,4.0,1589.02,Asiakas 113
+T100311,2026-06-25,Tulostin,Toimistolaitteet,Pirkanmaa,9.0,302.78,Asiakas 034
+T100312,2026-07-21,Tulostin,Toimistolaitteet,Pirkanmaa,6.0,134.37,Asiakas 037
+T100313,2026-07-08,Kannettava tietokone,Tietotekniikka,Keski-Suomi,9.0,842.72,Asiakas 082
+T100314,2026-02-06,Näppäimistö,Tarvikkeet,Pirkanmaa,10.0,110.94,Asiakas 031
+T100315,2026-09-26,Näyttö,Tietotekniikka,Pirkanmaa,10.0,226.82,Asiakas 046
+T100316,2026-02-14,Tulostin,Toimistolaitteet,Uusimaa,4.0,271.63,Asiakas 086
+T100317,2026-04-23,Tulostin,Toimistolaitteet,Uusimaa,9.0,446.04,Asiakas 072
+T100318,2026-06-28,Tulostin,Toimistolaitteet,Pohjois-Savo,10.0,90.44,Asiakas 079
+T100319,2026-04-21,Työpöytä,Kalusteet,Varsinais-Suomi,10.0,189.28,Asiakas 001
+T100320,2026-03-08,Työtuoli,Kalusteet,Pohjois-Savo,4.0,595.75,Asiakas 055
+T100321,2026-09-10,Näppäimistö,Tarvikkeet,Uusimaa,3.0,97.5,Tuntematon
+T100322,2026-01-20,Kannettava tietokone,Tietotekniikka,Uusimaa,6.0,825.91,Asiakas 076
+T100323,2026-03-09,Kuulokkeet,Tarvikkeet,Uusimaa,10.0,226.41,Asiakas 019
+T100324,2026-09-29,Työpöytä,Kalusteet,Pohjois-Karjala,10.0,724.84,Asiakas 020
+T100325,2026-07-19,Työpöytä,Kalusteet,Varsinais-Suomi,6.0,511.44,Asiakas 092
+T100326,2026-01-24,Näyttö,Tietotekniikka,Keski-Suomi,2.0,428.81,Asiakas 081
+T100327,2026-07-25,Näyttö,Tietotekniikka,Pirkanmaa,5.0,271.93,Asiakas 098
+T100328,2026-09-22,Kannettava tietokone,Tietotekniikka,Keski-Suomi,8.0,749.52,Asiakas 033
+T100329,2026-01-27,Näyttö,Tietotekniikka,Pohjois-Savo,6.0,416.56,Asiakas 120
+T100330,2026-04-24,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,4.0,93.85,Asiakas 033
+T100331,2026-05-08,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,4.0,175.0,Asiakas 079
+T100332,2026-02-05,Näppäimistö,Tarvikkeet,Varsinais-Suomi,1.0,128.69,Asiakas 020
+T100333,2026-02-24,Näppäimistö,Tarvikkeet,Keski-Suomi,3.0,27.25,Asiakas 111
+T100334,2026-02-17,Työtuoli,Kalusteet,Uusimaa,7.0,408.99,Asiakas 040
+T100335,2026-02-20,Hiiri,Tarvikkeet,Pohjois-Savo,3.0,34.43,Asiakas 097
+T100336,2026-04-21,Työtuoli,Kalusteet,Pohjois-Karjala,10.0,539.73,Asiakas 040
+T100337,2026-05-07,Työpöytä,Kalusteet,Pohjois-Savo,1.0,336.27,Asiakas 095
+T100338,2026-03-06,Näppäimistö,Tarvikkeet,Pohjois-Karjala,6.0,100.74,Asiakas 055
+T100339,2026-03-21,Näyttö,Tietotekniikka,Pohjois-Karjala,5.0,398.09,Asiakas 008
+T100340,2026-02-22,Työpöytä,Kalusteet,Keski-Suomi,9.0,424.62,Asiakas 023
+T100341,2026-08-06,Tulostin,Toimistolaitteet,Pirkanmaa,9.0,332.94,Asiakas 083
+T100342,2026-02-27,Näppäimistö,Tarvikkeet,Keski-Suomi,6.0,115.0,Asiakas 024
+T100343,2026-09-05,Kuulokkeet,Tarvikkeet,Uusimaa,7.0,153.73,Asiakas 034
+T100344,2026-05-28,Kuulokkeet,Tarvikkeet,Pirkanmaa,7.0,195.85,Asiakas 066
+T100345,2026-08-08,Työpöytä,Kalusteet,Pohjois-Savo,6.0,788.72,Asiakas 031
+T100346,2026-06-23,Näppäimistö,Tarvikkeet,Pohjois-Karjala,2.0,76.99,Asiakas 016
+T100347,2026-03-14,Työpöytä,Kalusteet,Pohjois-Karjala,5.0,498.04,Asiakas 075
+T100348,2026-06-14,Työpöytä,Kalusteet,Pohjois-Karjala,3.0,186.73,Asiakas 083
+T100349,2026-03-16,Näyttö,Tietotekniikka,Pohjois-Karjala,5.0,507.21,Asiakas 088
+T100350,2026-02-02,Näyttö,Tietotekniikka,Uusimaa,7.0,383.1,Asiakas 114
+T100351,2026-03-11,Kuulokkeet,Tarvikkeet,Pohjois-Savo,3.0,118.75,Asiakas 015
+T100352,2026-03-17,Kannettava tietokone,Tietotekniikka,Keski-Suomi,3.0,793.07,Asiakas 052
+T100353,2026-02-06,Näppäimistö,Tarvikkeet,Pirkanmaa,9.0,135.32,Asiakas 029
+T100354,2026-01-07,Hiiri,Tarvikkeet,Pohjois-Savo,4.0,48.18,Asiakas 109
+T100355,2026-09-15,Työpöytä,Kalusteet,Keski-Suomi,2.0,602.2,Asiakas 065
+T100356,2026-05-21,Työpöytä,Kalusteet,Keski-Suomi,8.0,271.61,Asiakas 012
+T100357,2026-04-20,Näyttö,Tietotekniikka,Pirkanmaa,8.0,581.7,Asiakas 084
+T100358,2026-09-11,Työpöytä,Kalusteet,Pohjois-Karjala,9.0,289.63,Asiakas 006
+T100359,2026-03-03,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,8.0,898.54,Asiakas 033
+T100360,2026-04-20,Tulostin,Toimistolaitteet,Pohjois-Savo,10.0,398.23,Asiakas 087
+T100361,2026-08-20,Työtuoli,Kalusteet,Uusimaa,6.0,557.91,Asiakas 061
+T100362,2026-06-22,Työpöytä,Kalusteet,Varsinais-Suomi,3.0,310.53,Asiakas 092
+T100363,2026-04-19,Näyttö,Tietotekniikka,Pohjois-Savo,9.0,360.41,Asiakas 069
+T100364,2026-03-11,Työpöytä,Kalusteet,Pohjois-Savo,3.0,633.77,Asiakas 102
+T100365,2026-01-10,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,3.0,1577.37,Asiakas 068
+T100366,2026-01-24,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,9.0,112.39,Asiakas 007
+T100367,2026-02-14,Hiiri,Tarvikkeet,Pohjois-Karjala,9.0,58.43,Asiakas 009
+T100368,2026-08-03,Näppäimistö,Tarvikkeet,Pohjois-Karjala,4.0,116.97,Asiakas 094
+T100369,2026-06-24,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,8.0,1430.14,Asiakas 005
+T100370,2026-04-29,Työtuoli,Kalusteet,Varsinais-Suomi,10.0,496.99,Asiakas 046
+T100371,2026-08-02,Näppäimistö,Tarvikkeet,Varsinais-Suomi,8.0,95.67,Asiakas 002
+T100372,2026-02-13,Tulostin,Toimistolaitteet,Keski-Suomi,1.0,126.66,Asiakas 037
+T100373,2026-02-27,Hiiri,Tarvikkeet,Pirkanmaa,7.0,90.93,Asiakas 072
+T100374,2026-04-18,Näppäimistö,Tarvikkeet,Pohjois-Savo,2.0,132.33,Asiakas 021
+T100375,2026-09-08,Työpöytä,Kalusteet,Pohjois-Karjala,9.0,673.82,Asiakas 056
+T100376,2026-06-17,Kannettava tietokone,Tietotekniikka,Uusimaa,1.0,798.86,Asiakas 120
+T100377,2026-08-21,Tulostin,Toimistolaitteet,Pohjois-Savo,10.0,162.58,Asiakas 009
+T100378,2026-03-09,Tulostin,Toimistolaitteet,Pirkanmaa,2.0,356.7,Asiakas 008
+T100379,2026-08-20,Hiiri,Tarvikkeet,Keski-Suomi,5.0,16.94,Asiakas 033
+T100381,2026-03-04,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,9.0,1076.14,Asiakas 049
+T100382,2026-05-23,Työpöytä,Kalusteet,Pirkanmaa,4.0,624.97,Asiakas 077
+T100383,2026-01-14,Työpöytä,Kalusteet,Pirkanmaa,8.0,729.29,Asiakas 005
+T100384,2026-08-23,Näyttö,Tietotekniikka,Uusimaa,1.0,326.58,Asiakas 089
+T100385,2026-08-25,Kannettava tietokone,Tietotekniikka,Keski-Suomi,5.0,1018.13,Asiakas 009
+T100386,2026-05-28,Kannettava tietokone,Tietotekniikka,Pirkanmaa,10.0,1307.74,Asiakas 086
+T100387,2026-03-25,Kannettava tietokone,Tietotekniikka,Keski-Suomi,10.0,1279.99,Asiakas 018
+T100388,2026-01-28,Työtuoli,Kalusteet,Pirkanmaa,3.0,321.3,Asiakas 104
+T100389,2026-06-18,Työpöytä,Kalusteet,Pohjois-Savo,4.0,552.1,Asiakas 036
+T100390,2026-05-27,Näyttö,Tietotekniikka,Keski-Suomi,5.0,569.92,Asiakas 023
+T100391,2026-07-27,Tulostin,Toimistolaitteet,Uusimaa,6.0,257.35,Asiakas 041
+T100392,2026-06-14,Näyttö,Tietotekniikka,Uusimaa,6.0,237.53,Asiakas 001
+T100393,2026-02-05,Näppäimistö,Tarvikkeet,Keski-Suomi,2.0,71.77,Asiakas 020
+T100394,2026-02-03,Kuulokkeet,Tarvikkeet,Keski-Suomi,8.0,115.7,Asiakas 072
+T100395,2026-08-02,Tulostin,Toimistolaitteet,Keski-Suomi,3.0,136.2,Asiakas 037
+T100396,2026-02-13,Työtuoli,Kalusteet,Pirkanmaa,4.0,205.55,Asiakas 043
+T100397,2026-09-14,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,9.0,1383.56,Asiakas 097
+T100398,2026-01-29,Näyttö,Tietotekniikka,Uusimaa,7.0,301.76,Asiakas 015
+T100399,2026-07-18,Näppäimistö,Tarvikkeet,Pohjois-Karjala,4.0,143.41,Asiakas 048
+T100400,2026-09-24,Näppäimistö,Tarvikkeet,Varsinais-Suomi,10.0,55.21,Asiakas 023
+T100401,2026-05-01,Työpöytä,Kalusteet,Pohjois-Savo,4.0,240.33,Asiakas 058
+T100402,2026-01-16,Työtuoli,Kalusteet,Pirkanmaa,6.0,483.15,Asiakas 040
+T100403,2026-08-28,Näppäimistö,Tarvikkeet,Pirkanmaa,3.0,134.25,Asiakas 006
+T100404,2026-02-21,Työpöytä,Kalusteet,Uusimaa,2.0,351.43,Asiakas 009
+T100405,2026-05-24,Hiiri,Tarvikkeet,Pirkanmaa,5.0,31.98,Asiakas 103
+T100406,2026-09-26,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,6.0,69.87,Asiakas 007
+T100407,2026-07-23,Hiiri,Tarvikkeet,Pohjois-Savo,9.0,58.85,Asiakas 094
+T100409,2026-08-12,Työpöytä,Kalusteet,Pohjois-Karjala,9.0,339.85,Asiakas 056
+T100410,2026-02-14,Kannettava tietokone,Tietotekniikka,Pirkanmaa,7.0,744.17,Asiakas 038
+T100411,2026-07-24,Näyttö,Tietotekniikka,Varsinais-Suomi,1.0,365.67,Asiakas 094
+T100412,2026-06-19,Näyttö,Tietotekniikka,Varsinais-Suomi,8.0,580.7,Asiakas 118
+T100413,2026-03-20,Näppäimistö,Tarvikkeet,Varsinais-Suomi,6.0,105.91,Asiakas 015
+T100414,2026-04-26,Näyttö,Tietotekniikka,Pirkanmaa,4.0,371.98,Asiakas 116
+T100415,2026-02-02,Kannettava tietokone,Tietotekniikka,Pirkanmaa,5.0,809.69,Asiakas 114
+T100416,2026-09-27,Tulostin,Toimistolaitteet,Pohjois-Karjala,4.0,179.88,Asiakas 018
+T100417,2026-03-07,Työpöytä,Kalusteet,Keski-Suomi,7.0,361.76,Asiakas 007
+T100418,2026-03-26,Kannettava tietokone,Tietotekniikka,Uusimaa,6.0,1463.8,Asiakas 086
+T100419,2026-05-18,Näppäimistö,Tarvikkeet,Pohjois-Karjala,5.0,133.71,Asiakas 010
+T100420,2026-07-03,Kuulokkeet,Tarvikkeet,Keski-Suomi,3.0,227.36,Asiakas 073
+T100421,2026-05-18,Työpöytä,Kalusteet,Pohjois-Savo,4.0,789.43,Asiakas 008
+T100422,2026-05-18,Tulostin,Toimistolaitteet,Pohjois-Karjala,5.0,442.65,Asiakas 083
+T100423,2026-06-09,Työtuoli,Kalusteet,Pirkanmaa,5.0,576.91,Asiakas 028
+T100424,2026-08-23,Kuulokkeet,Tarvikkeet,Keski-Suomi,4.0,44.8,Asiakas 012
+T100425,2026-04-18,Hiiri,Tarvikkeet,Varsinais-Suomi,6.0,26.57,Asiakas 008
+T100426,2026-08-16,Näyttö,Tietotekniikka,Keski-Suomi,3.0,286.01,Asiakas 023
+T100427,2026-08-03,Työtuoli,Kalusteet,Pohjois-Savo,6.0,388.86,Asiakas 065
+T100428,2026-09-20,Työtuoli,Kalusteet,Pohjois-Savo,2.0,174.58,Asiakas 010
+T100429,2026-09-07,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,5.0,1544.8,Asiakas 097
+T100430,2026-08-06,Tulostin,Toimistolaitteet,Varsinais-Suomi,8.0,311.03,Asiakas 073
+T100431,2026-03-09,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,9.0,1241.36,Asiakas 036
+T100432,2026-07-31,Tulostin,Toimistolaitteet,Uusimaa,7.0,148.51,Asiakas 119
+T100433,2026-07-21,Työtuoli,Kalusteet,Uusimaa,8.0,248.03,Asiakas 080
+T100434,2026-03-21,Näyttö,Tietotekniikka,Pohjois-Karjala,1.0,221.14,Asiakas 081
+T100435,2026-07-05,Hiiri,Tarvikkeet,Uusimaa,4.0,86.56,Asiakas 021
+T100436,2026-03-11,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,7.0,1283.23,Asiakas 086
+T100437,2026-05-23,Kuulokkeet,Tarvikkeet,Uusimaa,9.0,190.73,Asiakas 068
+T100438,2026-08-06,Työpöytä,Kalusteet,Uusimaa,6.0,362.54,Asiakas 119
+T100439,2026-02-21,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,9.0,1070.25,Asiakas 058
+T100440,2026-04-02,Hiiri,Tarvikkeet,Keski-Suomi,3.0,49.01,Asiakas 082
+T100441,2026-08-06,Työpöytä,Kalusteet,Keski-Suomi,2.0,650.21,Asiakas 041
+T100442,2026-05-04,Näppäimistö,Tarvikkeet,Pohjois-Savo,1.0,120.77,Asiakas 005
+T100443,2026-09-20,Näyttö,Tietotekniikka,Pirkanmaa,6.0,242.07,Asiakas 016
+T100444,2026-01-03,Hiiri,Tarvikkeet,Varsinais-Suomi,7.0,94.09,Asiakas 105
+T100445,2026-07-17,Kuulokkeet,Tarvikkeet,Pirkanmaa,3.0,55.54,Asiakas 089
+T100446,2026-08-11,Tulostin,Toimistolaitteet,Pohjois-Karjala,8.0,411.6,Asiakas 044
+T100447,2026-09-08,Näppäimistö,Tarvikkeet,Uusimaa,8.0,37.45,Asiakas 084
+T100448,2026-02-12,Työpöytä,Kalusteet,Pohjois-Savo,4.0,343.01,Asiakas 001
+T100449,2026-09-26,Kuulokkeet,Tarvikkeet,Pirkanmaa,3.0,215.23,Asiakas 005
+T100450,2026-04-18,Näppäimistö,Tarvikkeet,Varsinais-Suomi,8.0,47.26,Asiakas 061
+T100451,2026-04-07,Työpöytä,Kalusteet,Uusimaa,7.0,435.41,Asiakas 075
+T100452,2026-04-08,Työpöytä,Kalusteet,Pohjois-Karjala,2.0,457.91,Asiakas 113
+T100453,2026-06-24,Hiiri,Tarvikkeet,Pohjois-Savo,3.0,35.6,Asiakas 092
+T100454,2026-06-29,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,5.0,1409.25,Asiakas 031
+T100455,2026-05-10,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,6.0,216.29,Asiakas 098
+T100456,2026-01-20,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,2.0,221.41,Asiakas 059
+T100457,2026-09-27,Näyttö,Tietotekniikka,Uusimaa,10.0,301.69,Asiakas 100
+T100458,2026-03-02,Tulostin,Toimistolaitteet,Uusimaa,4.0,280.11,Asiakas 021
+T100459,2026-01-26,Työtuoli,Kalusteet,Pohjois-Savo,4.0,245.75,Asiakas 004
+T100460,2026-06-13,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,1.0,943.8,Asiakas 007
+T100461,2026-04-23,Tulostin,Toimistolaitteet,Pirkanmaa,9.0,147.05,Asiakas 119
+T100462,2026-06-18,Näyttö,Tietotekniikka,Pohjois-Savo,3.0,572.01,Asiakas 010
+T100463,2026-08-28,Tulostin,Toimistolaitteet,Pirkanmaa,10.0,408.68,Asiakas 113
+T100464,2026-01-27,Hiiri,Tarvikkeet,Keski-Suomi,5.0,80.3,Asiakas 088
+T100465,2026-03-19,Kannettava tietokone,Tietotekniikka,Uusimaa,9.0,1216.66,Asiakas 018
+T100466,2026-05-22,Työpöytä,Kalusteet,Keski-Suomi,2.0,483.18,Asiakas 104
+T100467,2026-08-04,Näyttö,Tietotekniikka,Uusimaa,2.0,387.39,Asiakas 018
+T100468,2026-06-13,Kuulokkeet,Tarvikkeet,Uusimaa,9.0,147.04,Asiakas 018
+T100469,2026-04-15,Näyttö,Tietotekniikka,Uusimaa,9.0,344.55,Asiakas 070
+T100470,2026-06-16,Työpöytä,Kalusteet,Uusimaa,6.0,260.69,Asiakas 035
+T100471,2026-09-25,Tulostin,Toimistolaitteet,Pohjois-Savo,1.0,134.24,Asiakas 035
+T100472,2026-05-12,Työtuoli,Kalusteet,Varsinais-Suomi,10.0,576.56,Asiakas 024
+T100473,2026-08-30,Hiiri,Tarvikkeet,Pirkanmaa,4.0,55.49,Asiakas 073
+T100474,2026-08-01,Hiiri,Tarvikkeet,Pohjois-Karjala,10.0,95.07,Asiakas 004
+T100475,2026-03-24,Tulostin,Toimistolaitteet,Pirkanmaa,9.0,147.89,Asiakas 030
+T100476,2026-03-10,Työtuoli,Kalusteet,Pirkanmaa,9.0,389.58,Asiakas 067
+T100477,2026-07-30,Työtuoli,Kalusteet,Pirkanmaa,7.0,226.63,Asiakas 059
+T100478,2026-02-26,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,7.0,952.18,Asiakas 084
+T100479,2026-04-02,Tulostin,Toimistolaitteet,Pohjois-Karjala,6.0,99.82,Asiakas 026
+T100480,2026-03-06,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,1.0,817.95,Asiakas 078
+T100481,2026-06-15,Näppäimistö,Tarvikkeet,Pohjois-Karjala,4.0,138.69,Asiakas 092
+T100482,2026-03-22,Työtuoli,Kalusteet,Keski-Suomi,8.0,280.12,Asiakas 047
+T100483,2026-06-29,Näppäimistö,Tarvikkeet,Pohjois-Karjala,9.0,100.41,Asiakas 031
+T100484,2026-09-13,Työtuoli,Kalusteet,Pirkanmaa,6.0,347.56,Asiakas 067
+T100485,2026-08-15,Hiiri,Tarvikkeet,Uusimaa,8.0,48.64,Asiakas 070
+T100486,2026-09-16,Näyttö,Tietotekniikka,Keski-Suomi,1.0,388.35,Asiakas 012
+T100487,2026-01-07,Näppäimistö,Tarvikkeet,Uusimaa,5.0,48.22,Asiakas 068
+T100488,2026-05-05,Kuulokkeet,Tarvikkeet,Pirkanmaa,6.0,246.49,Asiakas 019
+T100489,2026-03-02,Työtuoli,Kalusteet,Pohjois-Karjala,9.0,513.6,Asiakas 069
+T100490,2026-09-08,Kuulokkeet,Tarvikkeet,Keski-Suomi,4.0,192.16,Asiakas 112
+T100491,2026-07-14,Työpöytä,Kalusteet,Keski-Suomi,3.0,469.63,Asiakas 065
+T100492,2026-03-29,Työtuoli,Kalusteet,Pohjois-Savo,4.0,200.85,Asiakas 092
+T100493,2026-06-03,Työtuoli,Kalusteet,Keski-Suomi,2.0,561.71,Asiakas 038
+T100494,2026-06-15,Kuulokkeet,Tarvikkeet,Pohjois-Savo,6.0,104.11,Asiakas 111
+T100495,2026-05-16,Näppäimistö,Tarvikkeet,Varsinais-Suomi,7.0,31.21,Asiakas 098
+T100496,2026-05-10,Hiiri,Tarvikkeet,Keski-Suomi,9.0,43.76,Asiakas 111
+T100497,2026-01-16,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,10.0,1493.46,Asiakas 089
+T100498,2026-05-04,Näppäimistö,Tarvikkeet,Keski-Suomi,1.0,102.22,Asiakas 078
+T100499,2026-04-06,Työpöytä,Kalusteet,Pirkanmaa,3.0,644.52,Asiakas 064
+T100500,2026-08-12,Hiiri,Tarvikkeet,Uusimaa,4.0,81.67,Asiakas 112
+T100501,2026-08-25,Kannettava tietokone,Tietotekniikka,Uusimaa,3.0,910.95,Asiakas 102
+T100502,2026-07-24,Tulostin,Toimistolaitteet,Pirkanmaa,9.0,421.56,Asiakas 051
+T100503,2026-01-09,Työpöytä,Kalusteet,Pohjois-Karjala,2.0,450.55,Asiakas 011
+T100504,2026-08-18,Työtuoli,Kalusteet,Pirkanmaa,1.0,429.34,Asiakas 001
+T100505,2026-04-19,Näppäimistö,Tarvikkeet,Pohjois-Karjala,9.0,25.29,Asiakas 029
+T100506,2026-04-24,Hiiri,Tarvikkeet,Pirkanmaa,10.0,98.44,Asiakas 008
+T100507,2026-09-16,Kuulokkeet,Tarvikkeet,Uusimaa,3.0,90.8,Asiakas 026
+T100508,2026-08-25,Näyttö,Tietotekniikka,Uusimaa,4.0,176.93,Asiakas 014
+T100509,2026-01-14,Näppäimistö,Tarvikkeet,Varsinais-Suomi,6.0,81.82,Asiakas 118
+T100510,2026-04-09,Näyttö,Tietotekniikka,Keski-Suomi,6.0,207.06,Asiakas 012
+T100511,2026-07-24,Työpöytä,Kalusteet,Keski-Suomi,10.0,273.44,Asiakas 076
+T100512,2026-05-28,Tulostin,Toimistolaitteet,Uusimaa,5.0,316.62,Asiakas 043
+T100513,2026-03-12,Työtuoli,Kalusteet,Pirkanmaa,1.0,313.68,Asiakas 021
+T100514,2026-05-24,Työtuoli,Kalusteet,Pohjois-Karjala,5.0,562.27,Asiakas 085
+T100515,2026-08-25,Työpöytä,Kalusteet,Varsinais-Suomi,6.0,376.88,Asiakas 117
+T100516,2026-03-02,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,6.0,1425.18,Asiakas 095
+T100517,2026-07-23,Työpöytä,Kalusteet,Varsinais-Suomi,6.0,464.88,Asiakas 118
+T100518,2026-07-20,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,10.0,1358.95,Asiakas 071
+T100519,2026-08-30,Hiiri,Tarvikkeet,Pohjois-Savo,9.0,65.37,Asiakas 081
+T100520,2026-03-23,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,3.0,133.01,Asiakas 018
+T100521,2026-02-28,Näppäimistö,Tarvikkeet,Pohjois-Savo,4.0,142.81,Asiakas 103
+T100522,2026-05-30,Näyttö,Tietotekniikka,Pirkanmaa,7.0,303.22,Asiakas 090
+T100523,2026-05-26,Näyttö,Tietotekniikka,Varsinais-Suomi,5.0,228.76,Asiakas 031
+T100524,2026-04-22,Työtuoli,Kalusteet,Varsinais-Suomi,5.0,447.7,Asiakas 043
+T100525,2026-08-01,Näppäimistö,Tarvikkeet,Pirkanmaa,2.0,129.9,Asiakas 074
+T100526,2026-08-07,Näppäimistö,Tarvikkeet,Pohjois-Savo,3.0,29.99,Asiakas 002
+T100527,2026-03-09,Työpöytä,Kalusteet,Pohjois-Karjala,8.0,457.77,Asiakas 099
+T100528,2026-08-06,Näyttö,Tietotekniikka,Keski-Suomi,9.0,550.62,Asiakas 034
+T100529,2026-03-04,Työpöytä,Kalusteet,Keski-Suomi,8.0,643.76,Asiakas 009
+T100530,2026-04-22,Työpöytä,Kalusteet,Pohjois-Karjala,4.0,793.92,Asiakas 040
+T100531,2026-01-08,Kuulokkeet,Tarvikkeet,Pirkanmaa,2.0,145.91,Asiakas 101
+T100532,2026-04-03,Näyttö,Tietotekniikka,Keski-Suomi,2.0,446.0,Asiakas 033
+T100533,2026-09-19,Näyttö,Tietotekniikka,Pirkanmaa,4.0,285.12,Asiakas 065
+T100534,2026-05-01,Näppäimistö,Tarvikkeet,Pohjois-Savo,6.0,142.49,Asiakas 098
+T100535,2026-07-13,Kuulokkeet,Tarvikkeet,Keski-Suomi,9.0,109.59,Asiakas 005
+T100536,2026-01-30,Näyttö,Tietotekniikka,Uusimaa,9.0,481.33,Asiakas 092
+T100537,2026-06-23,Hiiri,Tarvikkeet,Keski-Suomi,1.0,48.86,Asiakas 035
+T100538,2026-04-12,Kannettava tietokone,Tietotekniikka,Pirkanmaa,8.0,1260.82,Asiakas 084
+T100539,2026-07-23,Kuulokkeet,Tarvikkeet,Keski-Suomi,3.0,187.35,Asiakas 023
+T100540,2026-09-11,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,2.0,1207.93,Asiakas 017
+T100541,2026-05-26,Tulostin,Toimistolaitteet,Uusimaa,6.0,415.55,Asiakas 095
+T100542,2026-01-29,Kannettava tietokone,Tietotekniikka,Uusimaa,1.0,1118.3,Asiakas 097
+T100543,2026-05-10,Näyttö,Tietotekniikka,Keski-Suomi,4.0,440.18,Asiakas 118
+T100544,2026-02-03,Näyttö,Tietotekniikka,Uusimaa,6.0,303.06,Asiakas 082
+T100545,2026-05-03,Työtuoli,Kalusteet,Pirkanmaa,3.0,320.83,Asiakas 056
+T100546,2026-01-17,Kannettava tietokone,Tietotekniikka,Pirkanmaa,6.0,1139.05,Asiakas 024
+T100547,2026-06-24,Hiiri,Tarvikkeet,Varsinais-Suomi,5.0,25.57,Asiakas 036
+T100548,2026-03-26,Kuulokkeet,Tarvikkeet,Uusimaa,8.0,49.18,Asiakas 078
+T100549,2026-02-25,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,2.0,175.85,Asiakas 042
+T100550,2026-01-05,Tulostin,Toimistolaitteet,Pirkanmaa,1.0,324.99,Asiakas 059
+T100551,2026-08-31,Työtuoli,Kalusteet,Uusimaa,6.0,440.57,Tuntematon
+T100552,2026-08-17,Hiiri,Tarvikkeet,Uusimaa,3.0,16.66,Asiakas 053
+T100553,2026-08-10,Työtuoli,Kalusteet,Pohjois-Karjala,8.0,282.48,Asiakas 029
+T100554,2026-01-16,Näppäimistö,Tarvikkeet,Uusimaa,1.0,49.53,Asiakas 014
+T100555,2026-04-06,Työpöytä,Kalusteet,Uusimaa,6.0,661.45,Asiakas 016
+T100556,2026-09-23,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,10.0,218.34,Asiakas 063
+T100557,2026-06-07,Tulostin,Toimistolaitteet,Uusimaa,1.0,177.8,Asiakas 044
+T100558,2026-02-05,Työpöytä,Kalusteet,Pirkanmaa,4.0,593.07,Asiakas 012
+T100559,2026-02-08,Työtuoli,Kalusteet,Uusimaa,9.0,189.8,Asiakas 062
+T100560,2026-03-13,Työtuoli,Kalusteet,Pirkanmaa,6.0,258.32,Asiakas 020
+T100561,2026-09-23,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,2.0,59.5,Asiakas 002
+T100562,2026-02-16,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,3.0,982.52,Asiakas 016
+T100563,2026-09-04,Hiiri,Tarvikkeet,Keski-Suomi,8.0,71.68,Asiakas 054
+T100564,2026-07-05,Näyttö,Tietotekniikka,Pohjois-Karjala,9.0,558.65,Asiakas 115
+T100565,2026-09-09,Työpöytä,Kalusteet,Pohjois-Savo,4.0,304.56,Asiakas 030
+T100566,2026-08-14,Näyttö,Tietotekniikka,Pirkanmaa,5.0,392.94,Asiakas 035
+T100567,2026-04-01,Näyttö,Tietotekniikka,Uusimaa,8.0,464.63,Asiakas 030
+T100568,2026-08-15,Näyttö,Tietotekniikka,Varsinais-Suomi,2.0,577.82,Asiakas 043
+T100569,2026-02-16,Tulostin,Toimistolaitteet,Uusimaa,3.0,308.62,Asiakas 087
+T100570,2026-03-21,Kuulokkeet,Tarvikkeet,Keski-Suomi,8.0,85.12,Asiakas 039
+T100571,2026-02-27,Työpöytä,Kalusteet,Uusimaa,2.0,566.8,Asiakas 079
+T100572,2026-02-06,Hiiri,Tarvikkeet,Varsinais-Suomi,8.0,41.92,Asiakas 108
+T100573,2026-01-25,Näppäimistö,Tarvikkeet,Pohjois-Savo,5.0,146.04,Asiakas 114
+T100574,2026-02-21,Kannettava tietokone,Tietotekniikka,Keski-Suomi,10.0,1098.68,Asiakas 068
+T100575,2026-02-02,Kannettava tietokone,Tietotekniikka,Keski-Suomi,1.0,1384.43,Asiakas 086
+T100576,2026-04-14,Näppäimistö,Tarvikkeet,Pohjois-Karjala,10.0,27.88,Asiakas 111
+T100577,2026-01-20,Työpöytä,Kalusteet,Pirkanmaa,3.0,427.04,Asiakas 095
+T100578,2026-01-17,Kuulokkeet,Tarvikkeet,Pohjois-Savo,1.0,221.52,Asiakas 036
+T100579,2026-09-28,Työpöytä,Kalusteet,Pohjois-Karjala,8.0,557.34,Asiakas 016
+T100580,2026-01-24,Kannettava tietokone,Tietotekniikka,Pirkanmaa,6.0,1142.94,Asiakas 014
+T100581,2026-01-21,Kannettava tietokone,Tietotekniikka,Keski-Suomi,9.0,1634.94,Asiakas 106
+T100582,2026-01-09,Työtuoli,Kalusteet,Pohjois-Karjala,2.0,530.37,Asiakas 067
+T100583,2026-02-06,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,1.0,1021.22,Asiakas 036
+T100584,2026-05-25,Kannettava tietokone,Tietotekniikka,Keski-Suomi,6.0,1243.55,Asiakas 042
+T100585,2026-08-14,Hiiri,Tarvikkeet,Pohjois-Karjala,9.0,56.15,Asiakas 034
+T100586,2026-07-20,Työpöytä,Kalusteet,Pirkanmaa,5.0,570.97,Asiakas 097
+T100587,2026-06-08,Tulostin,Toimistolaitteet,Pohjois-Savo,8.0,209.28,Asiakas 074
+T100588,2026-01-24,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,10.0,943.21,Asiakas 106
+T100589,2026-07-31,Työtuoli,Kalusteet,Pirkanmaa,9.0,557.96,Asiakas 037
+T100590,2026-01-11,Työtuoli,Kalusteet,Varsinais-Suomi,6.0,563.22,Asiakas 057
+T100591,2026-06-22,Työtuoli,Kalusteet,Pohjois-Savo,7.0,525.36,Asiakas 015
+T100592,2026-04-22,Työpöytä,Kalusteet,Pohjois-Savo,6.0,785.49,Asiakas 117
+T100593,2026-08-29,Näyttö,Tietotekniikka,Pohjois-Karjala,7.0,484.25,Asiakas 062
+T100594,2026-03-25,Työpöytä,Kalusteet,Pohjois-Karjala,6.0,653.09,Asiakas 067
+T100595,2026-06-24,Näppäimistö,Tarvikkeet,Pohjois-Savo,6.0,119.56,Asiakas 050
+T100596,2026-05-01,Työtuoli,Kalusteet,Varsinais-Suomi,5.0,354.89,Asiakas 033
+T100597,2026-05-23,Kuulokkeet,Tarvikkeet,Pohjois-Savo,7.0,129.42,Asiakas 114
+T100598,2026-09-14,Työtuoli,Kalusteet,Pohjois-Karjala,8.0,241.91,Asiakas 059
+T100599,2026-07-14,Tulostin,Toimistolaitteet,Keski-Suomi,10.0,321.13,Asiakas 081
+T100600,2026-04-24,Tulostin,Toimistolaitteet,Keski-Suomi,7.0,193.16,Asiakas 005
+T100602,2026-07-12,Työtuoli,Kalusteet,Varsinais-Suomi,6.0,404.4,Asiakas 097
+T100603,2026-04-05,Tulostin,Toimistolaitteet,Keski-Suomi,4.0,236.59,Asiakas 011
+T100604,2026-02-15,Näyttö,Tietotekniikka,Varsinais-Suomi,1.0,247.49,Asiakas 013
+T100605,2026-05-08,Työtuoli,Kalusteet,Pirkanmaa,1.0,512.55,Asiakas 098
+T100606,2026-01-19,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,6.0,218.33,Asiakas 038
+T100607,2026-02-16,Näppäimistö,Tarvikkeet,Varsinais-Suomi,10.0,45.79,Asiakas 033
+T100608,2026-04-25,Kuulokkeet,Tarvikkeet,Keski-Suomi,6.0,30.65,Asiakas 068
+T100609,2026-08-06,Työpöytä,Kalusteet,Varsinais-Suomi,5.0,387.4,Asiakas 024
+T100610,2026-08-02,Työtuoli,Kalusteet,Keski-Suomi,1.0,503.83,Asiakas 006
+T100611,2026-03-13,Työtuoli,Kalusteet,Pohjois-Savo,7.0,523.41,Asiakas 001
+T100612,2026-04-26,Hiiri,Tarvikkeet,Pohjois-Savo,1.0,26.62,Asiakas 010
+T100613,2026-02-11,Työtuoli,Kalusteet,Pohjois-Savo,9.0,492.94,Asiakas 020
+T100614,2026-07-26,Hiiri,Tarvikkeet,Varsinais-Suomi,9.0,24.72,Asiakas 084
+T100615,2026-03-09,Tulostin,Toimistolaitteet,Pohjois-Karjala,10.0,229.42,Asiakas 036
+T100616,2026-08-07,Tulostin,Toimistolaitteet,Uusimaa,3.0,448.5,Asiakas 009
+T100617,2026-08-18,Näyttö,Tietotekniikka,Pohjois-Savo,2.0,235.67,Asiakas 002
+T100618,2026-07-08,Näppäimistö,Tarvikkeet,Keski-Suomi,3.0,44.09,Asiakas 058
+T100619,2026-04-01,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,8.0,1121.8,Asiakas 101
+T100620,2026-09-18,Näyttö,Tietotekniikka,Varsinais-Suomi,3.0,427.85,Asiakas 041
+T100621,2026-07-07,Hiiri,Tarvikkeet,Pirkanmaa,9.0,93.36,Asiakas 008
+T100622,2026-06-26,Hiiri,Tarvikkeet,Pirkanmaa,2.0,97.39,Asiakas 028
+T100623,2026-08-22,Näyttö,Tietotekniikka,Pohjois-Savo,1.0,180.34,Asiakas 060
+T100624,2026-08-29,Hiiri,Tarvikkeet,Uusimaa,3.0,26.59,Asiakas 023
+T100625,2026-01-22,Kuulokkeet,Tarvikkeet,Keski-Suomi,8.0,202.96,Asiakas 118
+T100626,2026-08-29,Näyttö,Tietotekniikka,Pirkanmaa,7.0,270.78,Asiakas 092
+T100627,2026-07-28,Näppäimistö,Tarvikkeet,Pohjois-Karjala,4.0,134.72,Asiakas 042
+T100628,2026-02-26,Näppäimistö,Tarvikkeet,Pohjois-Karjala,7.0,107.27,Asiakas 115
+T100629,2026-03-25,Kuulokkeet,Tarvikkeet,Uusimaa,7.0,53.61,Asiakas 040
+T100630,2026-07-25,Näppäimistö,Tarvikkeet,Uusimaa,6.0,128.23,Asiakas 017
+T100631,2026-03-01,Tulostin,Toimistolaitteet,Pohjois-Karjala,6.0,152.49,Tuntematon
+T100632,2026-05-04,Näppäimistö,Tarvikkeet,Pohjois-Savo,2.0,77.51,Asiakas 116
+T100633,2026-07-08,Hiiri,Tarvikkeet,Pirkanmaa,3.0,61.38,Asiakas 038
+T100634,2026-06-27,Hiiri,Tarvikkeet,Keski-Suomi,6.0,57.06,Asiakas 072
+T100636,2026-01-31,Tulostin,Toimistolaitteet,Pohjois-Karjala,5.0,323.97,Asiakas 077
+T100637,2026-03-22,Näyttö,Tietotekniikka,Pohjois-Savo,2.0,595.42,Asiakas 083
+T100638,2026-09-26,Näppäimistö,Tarvikkeet,Uusimaa,8.0,148.93,Asiakas 086
+T100639,2026-06-05,Työtuoli,Kalusteet,Uusimaa,2.0,371.74,Asiakas 069
+T100640,2026-03-09,Työpöytä,Kalusteet,Uusimaa,1.0,238.02,Asiakas 085
+T100641,2026-03-21,Tulostin,Toimistolaitteet,Uusimaa,7.0,351.02,Asiakas 067
+T100642,2026-04-03,Työpöytä,Kalusteet,Keski-Suomi,3.0,784.53,Asiakas 099
+T100643,2026-06-01,Työtuoli,Kalusteet,Pohjois-Savo,4.0,278.61,Asiakas 022
+T100644,2026-03-19,Hiiri,Tarvikkeet,Pohjois-Karjala,4.0,53.74,Asiakas 059
+T100645,2026-06-19,Työtuoli,Kalusteet,Varsinais-Suomi,3.0,328.65,Asiakas 050
+T100646,2026-05-02,Näppäimistö,Tarvikkeet,Varsinais-Suomi,8.0,31.38,Asiakas 065
+T100647,2026-06-16,Hiiri,Tarvikkeet,Uusimaa,7.0,71.47,Asiakas 018
+T100648,2026-02-12,Kuulokkeet,Tarvikkeet,Uusimaa,3.0,106.73,Asiakas 039
+T100649,2026-06-20,Työpöytä,Kalusteet,Varsinais-Suomi,7.0,667.23,Asiakas 115
+T100650,2026-09-10,Työtuoli,Kalusteet,Uusimaa,8.0,520.1,Asiakas 013
+T100651,2026-02-06,Hiiri,Tarvikkeet,Pohjois-Karjala,6.0,83.98,Asiakas 077
+T100652,2026-03-31,Tulostin,Toimistolaitteet,Pohjois-Savo,6.0,239.0,Asiakas 080
+T100653,2026-07-09,Näyttö,Tietotekniikka,Pohjois-Savo,10.0,293.7,Asiakas 057
+T100654,2026-06-18,Työtuoli,Kalusteet,Pohjois-Karjala,5.0,480.95,Asiakas 005
+T100655,2026-07-04,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,4.0,205.31,Asiakas 005
+T100656,2026-06-02,Kuulokkeet,Tarvikkeet,Pohjois-Savo,6.0,137.08,Asiakas 034
+T100657,2026-07-06,Työtuoli,Kalusteet,Keski-Suomi,9.0,548.72,Asiakas 013
+T100658,2026-06-16,Tulostin,Toimistolaitteet,Pohjois-Savo,8.0,140.81,Asiakas 012
+T100659,2026-01-21,Kannettava tietokone,Tietotekniikka,Keski-Suomi,1.0,1578.07,Asiakas 020
+T100660,2026-07-25,Näppäimistö,Tarvikkeet,Pohjois-Karjala,5.0,36.92,Asiakas 023
+T100661,2026-05-02,Näyttö,Tietotekniikka,Keski-Suomi,8.0,218.09,Asiakas 101
+T100662,2026-01-15,Tulostin,Toimistolaitteet,Keski-Suomi,3.0,281.18,Asiakas 077
+T100663,2026-04-22,Kannettava tietokone,Tietotekniikka,Uusimaa,10.0,766.52,Asiakas 004
+T100664,2026-04-29,Näyttö,Tietotekniikka,Pohjois-Karjala,9.0,172.76,Asiakas 076
+T100665,2026-01-24,Kuulokkeet,Tarvikkeet,Uusimaa,9.0,29.11,Asiakas 017
+T100666,2026-09-29,Tulostin,Toimistolaitteet,Pirkanmaa,1.0,246.07,Asiakas 051
+T100667,2026-03-02,Kuulokkeet,Tarvikkeet,Uusimaa,6.0,199.42,Asiakas 005
+T100668,2026-04-01,Työtuoli,Kalusteet,Pirkanmaa,6.0,145.37,Asiakas 011
+T100669,2026-05-01,Työpöytä,Kalusteet,Keski-Suomi,7.0,583.4,Asiakas 016
+T100670,2026-08-16,Näyttö,Tietotekniikka,Pirkanmaa,9.0,519.41,Asiakas 053
+T100671,2026-07-22,Työpöytä,Kalusteet,Pohjois-Savo,4.0,283.16,Asiakas 056
+T100672,2026-07-30,Kuulokkeet,Tarvikkeet,Uusimaa,6.0,61.31,Asiakas 043
+T100673,2026-03-06,Tulostin,Toimistolaitteet,Pohjois-Karjala,7.0,398.89,Asiakas 075
+T100674,2026-08-19,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,8.0,1522.12,Asiakas 087
+T100675,2026-08-15,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,8.0,147.57,Asiakas 088
+T100676,2026-05-07,Tulostin,Toimistolaitteet,Pirkanmaa,4.0,383.91,Asiakas 070
+T100677,2026-05-30,Kuulokkeet,Tarvikkeet,Uusimaa,10.0,49.41,Asiakas 066
+T100678,2026-01-11,Kannettava tietokone,Tietotekniikka,Uusimaa,1.0,1093.48,Asiakas 059
+T100679,2026-07-27,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,5.0,191.32,Asiakas 029
+T100680,2026-09-20,Työpöytä,Kalusteet,Keski-Suomi,7.0,338.62,Tuntematon
+T100681,2026-05-10,Tulostin,Toimistolaitteet,Varsinais-Suomi,1.0,359.84,Asiakas 002
+T100682,2026-05-28,Näyttö,Tietotekniikka,Keski-Suomi,5.0,375.88,Asiakas 116
+T100683,2026-05-17,Työpöytä,Kalusteet,Pohjois-Karjala,6.0,644.16,Asiakas 045
+T100684,2026-01-23,Työpöytä,Kalusteet,Pohjois-Savo,7.0,467.1,Asiakas 091
+T100685,2026-06-19,Näyttö,Tietotekniikka,Pirkanmaa,2.0,314.56,Asiakas 115
+T100686,2026-07-16,Työtuoli,Kalusteet,Pirkanmaa,3.0,232.02,Asiakas 060
+T100687,2026-09-11,Hiiri,Tarvikkeet,Pohjois-Savo,3.0,32.5,Asiakas 104
+T100688,2026-09-11,Kuulokkeet,Tarvikkeet,Uusimaa,7.0,194.33,Asiakas 058
+T100689,2026-05-15,Hiiri,Tarvikkeet,Pohjois-Karjala,4.0,24.99,Asiakas 016
+T100690,2026-09-19,Työtuoli,Kalusteet,Pirkanmaa,6.0,169.41,Asiakas 004
+T100691,2026-05-25,Työpöytä,Kalusteet,Pohjois-Savo,8.0,288.3,Asiakas 017
+T100692,2026-06-25,Työtuoli,Kalusteet,Uusimaa,8.0,211.41,Asiakas 114
+T100693,2026-06-14,Työpöytä,Kalusteet,Uusimaa,2.0,689.33,Asiakas 058
+T100694,2026-09-30,Työpöytä,Kalusteet,Uusimaa,10.0,426.07,Asiakas 039
+T100695,2026-07-21,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,2.0,1689.39,Asiakas 054
+T100696,2026-02-02,Näppäimistö,Tarvikkeet,Pohjois-Karjala,1.0,42.01,Asiakas 031
+T100697,2026-01-20,Tulostin,Toimistolaitteet,Pohjois-Karjala,1.0,324.27,Asiakas 105
+T100698,2026-04-22,Kuulokkeet,Tarvikkeet,Pirkanmaa,3.0,127.72,Asiakas 120
+T100699,2026-05-21,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,9.0,1091.92,Asiakas 011
+T100700,2026-07-02,Kannettava tietokone,Tietotekniikka,Keski-Suomi,3.0,1574.08,Asiakas 087
+T100701,2026-05-12,Kuulokkeet,Tarvikkeet,Keski-Suomi,7.0,243.63,Asiakas 041
+T100702,2026-05-21,Kuulokkeet,Tarvikkeet,Pohjois-Savo,5.0,221.03,Asiakas 006
+T100703,2026-09-09,Näyttö,Tietotekniikka,Keski-Suomi,1.0,235.54,Asiakas 111
+T100704,2026-04-02,Näyttö,Tietotekniikka,Pohjois-Savo,5.0,248.36,Asiakas 008
+T100705,2026-05-15,Näyttö,Tietotekniikka,Pohjois-Savo,1.0,444.23,Asiakas 025
+T100706,2026-06-02,Kuulokkeet,Tarvikkeet,Pirkanmaa,5.0,92.6,Asiakas 004
+T100707,2026-05-08,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,6.0,1433.73,Asiakas 057
+T100708,2026-09-22,Kuulokkeet,Tarvikkeet,Pohjois-Savo,6.0,153.61,Asiakas 072
+T100709,2026-09-20,Hiiri,Tarvikkeet,Uusimaa,3.0,61.28,Asiakas 039
+T100710,2026-05-21,Hiiri,Tarvikkeet,Uusimaa,8.0,84.6,Asiakas 009
+T100711,2026-05-04,Tulostin,Toimistolaitteet,Pirkanmaa,6.0,344.79,Asiakas 014
+T100712,2026-06-10,Kuulokkeet,Tarvikkeet,Keski-Suomi,3.0,34.85,Asiakas 113
+T100713,2026-02-19,Tulostin,Toimistolaitteet,Uusimaa,5.0,106.81,Asiakas 097
+T100714,2026-04-27,Työtuoli,Kalusteet,Uusimaa,2.0,411.73,Asiakas 113
+T100715,2026-03-01,Työpöytä,Kalusteet,Pohjois-Savo,10.0,480.44,Asiakas 064
+T100716,2026-02-09,Työtuoli,Kalusteet,Uusimaa,8.0,251.29,Asiakas 066
+T100717,2026-01-26,Kuulokkeet,Tarvikkeet,Pohjois-Savo,3.0,121.1,Asiakas 095
+T100718,2026-06-10,Hiiri,Tarvikkeet,Varsinais-Suomi,7.0,78.66,Asiakas 074
+T100719,2026-01-01,Näyttö,Tietotekniikka,Pirkanmaa,7.0,520.98,Asiakas 053
+T100721,2026-04-28,Näyttö,Tietotekniikka,Pohjois-Karjala,1.0,322.42,Asiakas 059
+T100722,2026-04-11,Työpöytä,Kalusteet,Varsinais-Suomi,9.0,346.83,Asiakas 008
+T100723,2026-07-30,Työtuoli,Kalusteet,Pohjois-Savo,10.0,374.3,Asiakas 024
+T100724,2026-05-28,Kannettava tietokone,Tietotekniikka,Pirkanmaa,10.0,1013.75,Asiakas 089
+T100725,2026-07-20,Työtuoli,Kalusteet,Uusimaa,10.0,394.12,Asiakas 105
+T100726,2026-07-13,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,10.0,1375.65,Asiakas 013
+T100727,2026-01-09,Tulostin,Toimistolaitteet,Uusimaa,8.0,112.79,Asiakas 012
+T100728,2026-02-28,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,1.0,700.07,Asiakas 011
+T100729,2026-06-05,Hiiri,Tarvikkeet,Pohjois-Karjala,5.0,32.83,Asiakas 095
+T100730,2026-09-24,Tulostin,Toimistolaitteet,Pirkanmaa,3.0,411.02,Asiakas 038
+T100731,2026-02-12,Tulostin,Toimistolaitteet,Pohjois-Savo,3.0,321.66,Asiakas 040
+T100732,2026-01-29,Hiiri,Tarvikkeet,Pohjois-Karjala,9.0,29.44,Asiakas 002
+T100733,2026-09-14,Työpöytä,Kalusteet,Uusimaa,9.0,730.96,Asiakas 117
+T100734,2026-09-21,Työtuoli,Kalusteet,Keski-Suomi,6.0,349.88,Asiakas 053
+T100735,2026-02-15,Näyttö,Tietotekniikka,Pohjois-Karjala,8.0,363.24,Asiakas 096
+T100736,2026-04-20,Tulostin,Toimistolaitteet,Pirkanmaa,2.0,425.8,Asiakas 085
+T100737,2026-06-21,Tulostin,Toimistolaitteet,Varsinais-Suomi,3.0,110.42,Asiakas 018
+T100738,2026-02-23,Näppäimistö,Tarvikkeet,Varsinais-Suomi,9.0,51.68,Asiakas 097
+T100739,2026-03-31,Tulostin,Toimistolaitteet,Varsinais-Suomi,5.0,299.88,Tuntematon
+T100740,2026-04-18,Työpöytä,Kalusteet,Pohjois-Savo,6.0,300.2,Asiakas 073
+T100742,2026-03-26,Työtuoli,Kalusteet,Uusimaa,3.0,229.62,Asiakas 102
+T100743,2026-04-23,Tulostin,Toimistolaitteet,Pohjois-Karjala,9.0,124.7,Asiakas 112
+T100744,2026-03-21,Näppäimistö,Tarvikkeet,Pohjois-Savo,8.0,50.67,Asiakas 049
+T100745,2026-07-27,Työtuoli,Kalusteet,Varsinais-Suomi,7.0,327.68,Asiakas 012
+T100746,2026-02-11,Näppäimistö,Tarvikkeet,Pohjois-Karjala,4.0,46.84,Asiakas 102
+T100747,2026-03-04,Kuulokkeet,Tarvikkeet,Keski-Suomi,7.0,58.63,Asiakas 107
+T100748,2026-03-10,Näppäimistö,Tarvikkeet,Uusimaa,10.0,131.67,Asiakas 061
+T100749,2026-09-05,Näppäimistö,Tarvikkeet,Pohjois-Savo,7.0,64.73,Asiakas 070
+T100750,2026-09-15,Näyttö,Tietotekniikka,Pohjois-Karjala,5.0,311.34,Asiakas 027
+T100751,2026-05-17,Työpöytä,Kalusteet,Pohjois-Savo,3.0,213.27,Asiakas 009
+T100752,2026-02-12,Näyttö,Tietotekniikka,Pohjois-Savo,6.0,309.82,Asiakas 114
+T100753,2026-07-26,Kannettava tietokone,Tietotekniikka,Keski-Suomi,4.0,963.81,Asiakas 058
+T100754,2026-05-15,Työpöytä,Kalusteet,Keski-Suomi,7.0,557.5,Asiakas 033
+T100755,2026-08-20,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,1.0,74.19,Asiakas 084
+T100756,2026-04-09,Hiiri,Tarvikkeet,Keski-Suomi,2.0,89.62,Asiakas 004
+T100757,2026-09-30,Tulostin,Toimistolaitteet,Pohjois-Savo,8.0,423.68,Asiakas 010
+T100758,2026-08-09,Hiiri,Tarvikkeet,Pohjois-Savo,4.0,23.39,Asiakas 030
+T100759,2026-03-03,Näyttö,Tietotekniikka,Uusimaa,5.0,197.33,Asiakas 055
+T100760,2026-07-18,Tulostin,Toimistolaitteet,Pohjois-Savo,6.0,130.52,Asiakas 045
+T100761,2026-03-20,Näyttö,Tietotekniikka,Keski-Suomi,5.0,427.81,Asiakas 023
+T100762,2026-04-06,Kuulokkeet,Tarvikkeet,Pohjois-Savo,8.0,55.83,Asiakas 043
+T100763,2026-03-10,Työpöytä,Kalusteet,Varsinais-Suomi,3.0,707.48,Asiakas 041
+T100764,2026-07-06,Työpöytä,Kalusteet,Keski-Suomi,8.0,646.65,Asiakas 063
+T100765,2026-03-13,Näppäimistö,Tarvikkeet,Pohjois-Karjala,3.0,126.66,Asiakas 068
+T100766,2026-06-24,Työtuoli,Kalusteet,Uusimaa,4.0,376.25,Asiakas 106
+T100767,2026-06-09,Kuulokkeet,Tarvikkeet,Pirkanmaa,6.0,248.27,Asiakas 097
+T100768,2026-07-24,Hiiri,Tarvikkeet,Varsinais-Suomi,9.0,18.71,Asiakas 036
+T100769,2026-09-29,Näyttö,Tietotekniikka,Pohjois-Karjala,3.0,329.57,Asiakas 109
+T100770,2026-01-03,Hiiri,Tarvikkeet,Pirkanmaa,6.0,42.21,Asiakas 063
+T100771,2026-09-28,Tulostin,Toimistolaitteet,Uusimaa,1.0,430.51,Asiakas 023
+T100772,2026-01-30,Työpöytä,Kalusteet,Uusimaa,1.0,536.65,Asiakas 041
+T100773,2026-05-24,Kannettava tietokone,Tietotekniikka,Keski-Suomi,8.0,1505.19,Asiakas 090
+T100774,2026-04-04,Tulostin,Toimistolaitteet,Pirkanmaa,8.0,150.32,Asiakas 099
+T100775,2026-06-24,Työtuoli,Kalusteet,Pohjois-Savo,4.0,588.96,Asiakas 045
+T100776,2026-07-17,Työpöytä,Kalusteet,Varsinais-Suomi,7.0,488.16,Asiakas 019
+T100777,2026-08-23,Hiiri,Tarvikkeet,Pohjois-Savo,4.0,56.47,Asiakas 024
+T100778,2026-04-20,Kannettava tietokone,Tietotekniikka,Keski-Suomi,3.0,1669.88,Asiakas 013
+T100779,2026-09-12,Näppäimistö,Tarvikkeet,Pirkanmaa,5.0,72.21,Asiakas 084
+T100781,2026-02-25,Työpöytä,Kalusteet,Varsinais-Suomi,9.0,541.55,Asiakas 055
+T100782,2026-04-14,Tulostin,Toimistolaitteet,Pohjois-Karjala,5.0,135.1,Asiakas 081
+T100783,2026-05-25,Kannettava tietokone,Tietotekniikka,Keski-Suomi,4.0,1020.09,Asiakas 100
+T100784,2026-07-02,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,6.0,892.21,Asiakas 096
+T100785,2026-08-16,Hiiri,Tarvikkeet,Uusimaa,8.0,23.68,Asiakas 017
+T100786,2026-03-03,Kuulokkeet,Tarvikkeet,Pirkanmaa,3.0,219.55,Asiakas 071
+T100787,2026-03-24,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,10.0,1288.33,Asiakas 106
+T100788,2026-09-14,Tulostin,Toimistolaitteet,Keski-Suomi,5.0,218.12,Asiakas 093
+T100789,2026-05-01,Kuulokkeet,Tarvikkeet,Pohjois-Savo,7.0,118.91,Asiakas 040
+T100790,2026-03-07,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,10.0,1130.52,Asiakas 048
+T100791,2026-09-27,Kannettava tietokone,Tietotekniikka,Keski-Suomi,5.0,1332.15,Asiakas 107
+T100792,2026-05-03,Hiiri,Tarvikkeet,Pohjois-Karjala,2.0,92.85,Asiakas 004
+T100793,2026-09-26,Tulostin,Toimistolaitteet,Pohjois-Karjala,8.0,424.8,Asiakas 064
+T100794,2026-09-08,Työtuoli,Kalusteet,Uusimaa,1.0,313.0,Asiakas 014
+T100795,2026-09-05,Hiiri,Tarvikkeet,Pohjois-Karjala,5.0,42.66,Asiakas 108
+T100796,2026-06-08,Näppäimistö,Tarvikkeet,Pirkanmaa,10.0,80.93,Asiakas 005
+T100797,2026-08-06,Työpöytä,Kalusteet,Pohjois-Savo,5.0,531.12,Asiakas 003
+T100798,2026-09-20,Hiiri,Tarvikkeet,Pirkanmaa,7.0,53.79,Asiakas 040
+T100799,2026-03-15,Näppäimistö,Tarvikkeet,Pirkanmaa,6.0,106.69,Tuntematon
+T100800,2026-01-11,Hiiri,Tarvikkeet,Varsinais-Suomi,3.0,61.57,Asiakas 060
+T100801,2026-03-29,Kannettava tietokone,Tietotekniikka,Uusimaa,4.0,1019.72,Asiakas 036
+T100802,2026-06-23,Näppäimistö,Tarvikkeet,Pirkanmaa,6.0,67.87,Asiakas 043
+T100803,2026-05-30,Kuulokkeet,Tarvikkeet,Pirkanmaa,2.0,112.29,Asiakas 068
+T100804,2026-01-22,Työpöytä,Kalusteet,Uusimaa,5.0,237.68,Asiakas 068
+T100805,2026-06-03,Tulostin,Toimistolaitteet,Pohjois-Karjala,5.0,148.78,Asiakas 113
+T100806,2026-02-17,Työtuoli,Kalusteet,Uusimaa,9.0,468.86,Tuntematon
+T100807,2026-05-19,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,2.0,114.6,Asiakas 068
+T100808,2026-06-07,Kannettava tietokone,Tietotekniikka,Uusimaa,9.0,913.54,Asiakas 082
+T100809,2026-06-23,Hiiri,Tarvikkeet,Keski-Suomi,5.0,62.26,Asiakas 021
+T100810,2026-04-23,Työpöytä,Kalusteet,Pirkanmaa,7.0,647.43,Asiakas 081
+T100811,2026-04-22,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,6.0,956.42,Asiakas 104
+T100812,2026-07-05,Työpöytä,Kalusteet,Pohjois-Savo,3.0,691.61,Asiakas 039
+T100813,2026-07-24,Tulostin,Toimistolaitteet,Pohjois-Karjala,10.0,422.9,Asiakas 022
+T100814,2026-08-09,Näppäimistö,Tarvikkeet,Keski-Suomi,3.0,99.08,Asiakas 042
+T100815,2026-04-02,Työtuoli,Kalusteet,Uusimaa,1.0,443.41,Asiakas 034
+T100816,2026-04-26,Työtuoli,Kalusteet,Varsinais-Suomi,8.0,153.71,Asiakas 071
+T100817,2026-04-01,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,7.0,1644.52,Asiakas 104
+T100818,2026-05-25,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,9.0,1091.48,Asiakas 072
+T100819,2026-02-04,Tulostin,Toimistolaitteet,Pirkanmaa,5.0,421.6,Asiakas 016
+T100820,2026-04-28,Työpöytä,Kalusteet,Pohjois-Karjala,1.0,537.97,Asiakas 038
+T100821,2026-02-21,Kannettava tietokone,Tietotekniikka,Keski-Suomi,1.0,703.62,Asiakas 083
+T100822,2026-05-26,Tulostin,Toimistolaitteet,Keski-Suomi,5.0,102.88,Asiakas 040
+T100823,2026-08-21,Näyttö,Tietotekniikka,Pohjois-Savo,3.0,455.19,Asiakas 071
+T100824,2026-09-27,Tulostin,Toimistolaitteet,Uusimaa,10.0,291.56,Asiakas 084
+T100825,2026-05-02,Kuulokkeet,Tarvikkeet,Pirkanmaa,2.0,34.84,Asiakas 040
+T100826,2026-01-16,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,9.0,1442.46,Asiakas 078
+T100827,2026-03-04,Tulostin,Toimistolaitteet,Varsinais-Suomi,3.0,395.77,Asiakas 048
+T100828,2026-01-29,Työpöytä,Kalusteet,Pohjois-Savo,2.0,486.78,Asiakas 017
+T100829,2026-07-27,Työtuoli,Kalusteet,Pohjois-Savo,3.0,347.91,Asiakas 045
+T100830,2026-09-26,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,2.0,704.47,Asiakas 053
+T100831,2026-06-01,Näyttö,Tietotekniikka,Uusimaa,5.0,502.99,Asiakas 001
+T100832,2026-02-18,Näyttö,Tietotekniikka,Pohjois-Karjala,4.0,297.82,Asiakas 108
+T100833,2026-01-06,Hiiri,Tarvikkeet,Uusimaa,6.0,88.82,Asiakas 064
+T100834,2026-09-24,Näyttö,Tietotekniikka,Keski-Suomi,6.0,316.88,Asiakas 005
+T100835,2026-03-28,Työtuoli,Kalusteet,Uusimaa,1.0,394.59,Asiakas 105
+T100836,2026-01-31,Työtuoli,Kalusteet,Pohjois-Savo,2.0,256.06,Asiakas 103
+T100837,2026-02-18,Työtuoli,Kalusteet,Pirkanmaa,2.0,204.48,Asiakas 002
+T100838,2026-03-11,Näyttö,Tietotekniikka,Pohjois-Karjala,2.0,497.71,Asiakas 020
+T100840,2026-09-01,Työpöytä,Kalusteet,Pohjois-Savo,4.0,511.62,Asiakas 061
+T100841,2026-03-17,Näppäimistö,Tarvikkeet,Keski-Suomi,6.0,144.71,Asiakas 088
+T100842,2026-07-07,Tulostin,Toimistolaitteet,Varsinais-Suomi,4.0,435.89,Asiakas 051
+T100843,2026-01-18,Työpöytä,Kalusteet,Pirkanmaa,4.0,709.5,Asiakas 074
+T100844,2026-01-03,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,5.0,886.61,Asiakas 002
+T100845,2026-01-15,Kannettava tietokone,Tietotekniikka,Keski-Suomi,6.0,1293.27,Asiakas 080
+T100846,2026-09-10,Kannettava tietokone,Tietotekniikka,Pirkanmaa,4.0,1577.15,Asiakas 110
+T100847,2026-06-08,Näyttö,Tietotekniikka,Varsinais-Suomi,3.0,317.51,Asiakas 064
+T100848,2026-08-08,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,5.0,800.11,Asiakas 055
+T100849,2026-01-06,Työtuoli,Kalusteet,Uusimaa,1.0,510.15,Asiakas 036
+T100850,2026-01-07,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,5.0,134.99,Asiakas 115
+T100851,2026-08-20,Työpöytä,Kalusteet,Uusimaa,10.0,528.92,Asiakas 004
+T100852,2026-01-29,Työtuoli,Kalusteet,Keski-Suomi,4.0,590.61,Asiakas 035
+T100853,2026-02-12,Työpöytä,Kalusteet,Keski-Suomi,2.0,555.47,Asiakas 017
+T100854,2026-05-22,Näyttö,Tietotekniikka,Uusimaa,8.0,340.24,Asiakas 104
+T100855,2026-06-15,Näppäimistö,Tarvikkeet,Pirkanmaa,2.0,70.88,Asiakas 058
+T100856,2026-03-04,Työtuoli,Kalusteet,Uusimaa,2.0,325.28,Asiakas 111
+T100857,2026-05-02,Näyttö,Tietotekniikka,Varsinais-Suomi,2.0,202.28,Asiakas 080
+T100858,2026-07-04,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,9.0,1493.75,Asiakas 067
+T100859,2026-05-01,Tulostin,Toimistolaitteet,Pirkanmaa,10.0,390.58,Asiakas 063
+T100860,2026-04-15,Työtuoli,Kalusteet,Varsinais-Suomi,6.0,262.67,Asiakas 025
+T100861,2026-01-20,Työpöytä,Kalusteet,Varsinais-Suomi,7.0,367.35,Asiakas 068
+T100862,2026-05-04,Työpöytä,Kalusteet,Varsinais-Suomi,7.0,721.09,Asiakas 083
+T100863,2026-08-08,Kannettava tietokone,Tietotekniikka,Uusimaa,7.0,722.97,Asiakas 116
+T100864,2026-06-21,Työtuoli,Kalusteet,Pohjois-Karjala,6.0,373.61,Asiakas 066
+T100865,2026-09-01,Työtuoli,Kalusteet,Pohjois-Karjala,10.0,346.93,Asiakas 113
+T100866,2026-02-04,Tulostin,Toimistolaitteet,Pohjois-Karjala,8.0,337.45,Asiakas 114
+T100867,2026-01-04,Työtuoli,Kalusteet,Pirkanmaa,1.0,205.79,Asiakas 063
+T100868,2026-05-30,Työtuoli,Kalusteet,Keski-Suomi,4.0,443.12,Asiakas 053
+T100869,2026-02-18,Hiiri,Tarvikkeet,Pirkanmaa,10.0,46.65,Asiakas 018
+T100870,2026-06-12,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,5.0,1317.71,Asiakas 033
+T100871,2026-09-04,Hiiri,Tarvikkeet,Uusimaa,3.0,18.37,Asiakas 106
+T100872,2026-04-03,Näyttö,Tietotekniikka,Uusimaa,9.0,356.78,Asiakas 017
+T100873,2026-05-31,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,7.0,1221.25,Asiakas 048
+T100874,2026-07-06,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,6.0,913.33,Asiakas 084
+T100875,2026-02-10,Tulostin,Toimistolaitteet,Pohjois-Karjala,5.0,139.26,Asiakas 029
+T100876,2026-09-02,Kuulokkeet,Tarvikkeet,Uusimaa,2.0,70.46,Asiakas 117
+T100877,2026-02-25,Kuulokkeet,Tarvikkeet,Keski-Suomi,4.0,104.71,Asiakas 078
+T100878,2026-08-09,Tulostin,Toimistolaitteet,Uusimaa,5.0,123.85,Asiakas 004
+T100879,2026-06-30,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,10.0,237.41,Asiakas 030
+T100880,2026-02-08,Tulostin,Toimistolaitteet,Keski-Suomi,4.0,234.8,Asiakas 089
+T100881,2026-07-17,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,2.0,1507.97,Asiakas 104
+T100882,2026-02-23,Työtuoli,Kalusteet,Pohjois-Karjala,5.0,586.98,Asiakas 112
+T100883,2026-06-13,Hiiri,Tarvikkeet,Keski-Suomi,10.0,21.78,Asiakas 103
+T100884,2026-09-19,Näyttö,Tietotekniikka,Keski-Suomi,5.0,442.25,Asiakas 009
+T100885,2026-09-18,Työtuoli,Kalusteet,Pirkanmaa,4.0,538.56,Asiakas 088
+T100887,2026-05-15,Kannettava tietokone,Tietotekniikka,Uusimaa,7.0,1128.03,Asiakas 010
+T100888,2026-06-02,Näyttö,Tietotekniikka,Varsinais-Suomi,3.0,342.98,Asiakas 084
+T100889,2026-03-23,Kannettava tietokone,Tietotekniikka,Keski-Suomi,10.0,734.9,Asiakas 058
+T100890,2026-09-09,Näppäimistö,Tarvikkeet,Pirkanmaa,6.0,91.29,Asiakas 078
+T100891,2026-05-11,Kannettava tietokone,Tietotekniikka,Pirkanmaa,1.0,1692.54,Asiakas 103
+T100892,2026-07-30,Tulostin,Toimistolaitteet,Pohjois-Savo,5.0,434.13,Asiakas 009
+T100893,2026-04-09,Kuulokkeet,Tarvikkeet,Pirkanmaa,10.0,37.89,Asiakas 064
+T100894,2026-07-22,Työpöytä,Kalusteet,Uusimaa,4.0,616.59,Asiakas 101
+T100895,2026-03-03,Tulostin,Toimistolaitteet,Keski-Suomi,6.0,197.64,Asiakas 053
+T100896,2026-07-20,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,7.0,227.66,Asiakas 063
+T100897,2026-01-13,Kuulokkeet,Tarvikkeet,Pohjois-Savo,8.0,38.93,Asiakas 060
+T100898,2026-01-29,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,9.0,1634.87,Asiakas 109
+T100899,2026-04-07,Kannettava tietokone,Tietotekniikka,Keski-Suomi,2.0,1536.48,Asiakas 006
+T100900,2026-05-12,Kuulokkeet,Tarvikkeet,Keski-Suomi,6.0,54.85,Asiakas 106
+T100901,2026-07-14,Kannettava tietokone,Tietotekniikka,Pohjois-Karjala,6.0,758.82,Asiakas 098
+T100902,2026-04-09,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,2.0,1533.71,Asiakas 098
+T100903,2026-01-06,Näyttö,Tietotekniikka,Pohjois-Savo,7.0,219.09,Asiakas 050
+T100904,2026-03-30,Työpöytä,Kalusteet,Uusimaa,2.0,510.64,Asiakas 062
+T100905,2026-04-30,Hiiri,Tarvikkeet,Pohjois-Karjala,5.0,91.92,Asiakas 045
+T100906,2026-05-29,Tulostin,Toimistolaitteet,Pohjois-Karjala,4.0,293.28,Asiakas 031
+T100907,2026-06-25,Hiiri,Tarvikkeet,Keski-Suomi,2.0,48.37,Asiakas 106
+T100908,2026-03-09,Näyttö,Tietotekniikka,Pohjois-Savo,9.0,349.26,Asiakas 061
+T100909,2026-06-16,Näppäimistö,Tarvikkeet,Pohjois-Savo,3.0,32.83,Asiakas 087
+T100910,2026-06-22,Kannettava tietokone,Tietotekniikka,Keski-Suomi,3.0,1667.75,Asiakas 013
+T100911,2026-08-01,Työtuoli,Kalusteet,Keski-Suomi,9.0,275.01,Asiakas 095
+T100912,2026-05-23,Näyttö,Tietotekniikka,Pohjois-Karjala,9.0,234.21,Asiakas 080
+T100913,2026-08-10,Hiiri,Tarvikkeet,Pohjois-Savo,1.0,39.03,Asiakas 120
+T100914,2026-03-02,Työpöytä,Kalusteet,Pohjois-Savo,3.0,776.91,Asiakas 017
+T100915,2026-07-14,Kuulokkeet,Tarvikkeet,Pohjois-Savo,8.0,49.74,Asiakas 065
+T100916,2026-01-13,Hiiri,Tarvikkeet,Pohjois-Karjala,8.0,87.85,Asiakas 062
+T100917,2026-01-29,Kuulokkeet,Tarvikkeet,Keski-Suomi,10.0,184.73,Asiakas 065
+T100918,2026-08-25,Työtuoli,Kalusteet,Varsinais-Suomi,6.0,519.11,Asiakas 007
+T100919,2026-05-10,Näppäimistö,Tarvikkeet,Uusimaa,1.0,146.01,Tuntematon
+T100920,2026-06-19,Tulostin,Toimistolaitteet,Pohjois-Karjala,9.0,392.18,Asiakas 036
+T100921,2026-06-14,Työtuoli,Kalusteet,Pohjois-Savo,2.0,572.39,Asiakas 075
+T100922,2026-07-09,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,2.0,56.93,Asiakas 028
+T100923,2026-03-09,Hiiri,Tarvikkeet,Keski-Suomi,7.0,81.85,Asiakas 053
+T100924,2026-02-18,Näyttö,Tietotekniikka,Pohjois-Karjala,7.0,394.55,Asiakas 075
+T100925,2026-01-12,Näyttö,Tietotekniikka,Keski-Suomi,1.0,393.57,Asiakas 008
+T100926,2026-08-25,Työpöytä,Kalusteet,Varsinais-Suomi,2.0,736.33,Asiakas 095
+T100927,2026-03-03,Kuulokkeet,Tarvikkeet,Pirkanmaa,6.0,242.8,Asiakas 086
+T100928,2026-06-07,Näppäimistö,Tarvikkeet,Uusimaa,3.0,112.4,Asiakas 007
+T100929,2026-05-05,Hiiri,Tarvikkeet,Keski-Suomi,7.0,55.57,Asiakas 008
+T100930,2026-02-14,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,5.0,129.41,Asiakas 103
+T100931,2026-04-24,Kuulokkeet,Tarvikkeet,Uusimaa,6.0,114.0,Asiakas 034
+T100932,2026-01-23,Tulostin,Toimistolaitteet,Keski-Suomi,5.0,219.18,Asiakas 104
+T100933,2026-02-18,Näppäimistö,Tarvikkeet,Pohjois-Savo,4.0,73.55,Asiakas 060
+T100934,2026-02-08,Tulostin,Toimistolaitteet,Varsinais-Suomi,4.0,121.31,Asiakas 042
+T100935,2026-08-14,Hiiri,Tarvikkeet,Uusimaa,7.0,21.5,Asiakas 033
+T100936,2026-06-04,Työpöytä,Kalusteet,Varsinais-Suomi,6.0,662.52,Asiakas 080
+T100937,2026-09-10,Näyttö,Tietotekniikka,Pirkanmaa,6.0,349.73,Asiakas 014
+T100938,2026-04-30,Näyttö,Tietotekniikka,Pirkanmaa,6.0,567.81,Asiakas 049
+T100939,2026-02-24,Hiiri,Tarvikkeet,Pohjois-Karjala,3.0,66.43,Asiakas 042
+T100940,2026-06-16,Kuulokkeet,Tarvikkeet,Pohjois-Karjala,10.0,36.74,Asiakas 019
+T100941,2026-09-11,Tulostin,Toimistolaitteet,Pohjois-Savo,6.0,145.71,Asiakas 043
+T100942,2026-05-26,Hiiri,Tarvikkeet,Keski-Suomi,8.0,32.29,Asiakas 064
+T100943,2026-01-05,Työpöytä,Kalusteet,Pirkanmaa,9.0,783.96,Asiakas 082
+T100944,2026-03-24,Hiiri,Tarvikkeet,Pohjois-Savo,10.0,33.37,Asiakas 011
+T100945,2026-09-10,Näyttö,Tietotekniikka,Pohjois-Savo,7.0,381.09,Asiakas 105
+T100946,2026-05-22,Kannettava tietokone,Tietotekniikka,Uusimaa,8.0,1635.18,Asiakas 106
+T100947,2026-09-17,Työpöytä,Kalusteet,Pohjois-Karjala,5.0,784.86,Asiakas 084
+T100948,2026-05-20,Näyttö,Tietotekniikka,Varsinais-Suomi,8.0,255.36,Asiakas 111
+T100949,2026-01-04,Työpöytä,Kalusteet,Pirkanmaa,4.0,209.45,Asiakas 052
+T100950,2026-08-27,Näppäimistö,Tarvikkeet,Pirkanmaa,8.0,44.05,Asiakas 099
+T100951,2026-07-28,Kannettava tietokone,Tietotekniikka,Keski-Suomi,1.0,762.33,Asiakas 088
+T100952,2026-07-15,Näppäimistö,Tarvikkeet,Varsinais-Suomi,10.0,49.2,Asiakas 068
+T100953,2026-09-22,Kuulokkeet,Tarvikkeet,Pohjois-Savo,3.0,154.09,Asiakas 022
+T100955,2026-09-05,Työtuoli,Kalusteet,Pirkanmaa,1.0,381.49,Asiakas 109
+T100957,2026-09-23,Hiiri,Tarvikkeet,Keski-Suomi,10.0,31.96,Asiakas 054
+T100958,2026-02-22,Tulostin,Toimistolaitteet,Varsinais-Suomi,9.0,377.21,Asiakas 030
+T100959,2026-05-31,Työpöytä,Kalusteet,Pohjois-Karjala,3.0,562.03,Asiakas 090
+T100960,2026-08-04,Hiiri,Tarvikkeet,Varsinais-Suomi,2.0,87.59,Asiakas 010
+T100961,2026-01-22,Näyttö,Tietotekniikka,Pirkanmaa,9.0,575.98,Asiakas 019
+T100962,2026-01-19,Hiiri,Tarvikkeet,Varsinais-Suomi,10.0,44.22,Asiakas 068
+T100963,2026-08-20,Työtuoli,Kalusteet,Varsinais-Suomi,2.0,171.57,Asiakas 119
+T100964,2026-01-17,Näyttö,Tietotekniikka,Pohjois-Karjala,7.0,250.67,Asiakas 040
+T100965,2026-06-17,Työpöytä,Kalusteet,Uusimaa,3.0,450.46,Asiakas 054
+T100966,2026-09-14,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,8.0,237.05,Asiakas 039
+T100967,2026-06-17,Kuulokkeet,Tarvikkeet,Uusimaa,5.0,112.23,Asiakas 053
+T100968,2026-05-12,Näppäimistö,Tarvikkeet,Pohjois-Karjala,2.0,120.58,Asiakas 001
+T100969,2026-04-24,Työpöytä,Kalusteet,Pohjois-Karjala,4.0,514.1,Asiakas 072
+T100970,2026-06-24,Kannettava tietokone,Tietotekniikka,Varsinais-Suomi,6.0,881.81,Asiakas 072
+T100971,2026-06-06,Näppäimistö,Tarvikkeet,Keski-Suomi,8.0,64.77,Asiakas 038
+T100972,2026-05-17,Hiiri,Tarvikkeet,Varsinais-Suomi,1.0,69.87,Asiakas 032
+T100973,2026-02-11,Hiiri,Tarvikkeet,Pohjois-Savo,10.0,71.52,Asiakas 092
+T100974,2026-06-30,Hiiri,Tarvikkeet,Varsinais-Suomi,7.0,51.52,Asiakas 023
+T100975,2026-07-21,Näyttö,Tietotekniikka,Pohjois-Karjala,9.0,251.89,Asiakas 006
+T100976,2026-07-13,Näyttö,Tietotekniikka,Pohjois-Savo,10.0,473.86,Asiakas 005
+T100977,2026-01-21,Kannettava tietokone,Tietotekniikka,Pohjois-Savo,2.0,867.87,Asiakas 106
+T100978,2026-07-11,Kuulokkeet,Tarvikkeet,Uusimaa,1.0,235.07,Asiakas 044
+T100979,2026-07-19,Näppäimistö,Tarvikkeet,Keski-Suomi,8.0,48.3,Asiakas 013
+T100980,2026-02-20,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,2.0,52.61,Asiakas 106
+T100981,2026-08-20,Kuulokkeet,Tarvikkeet,Keski-Suomi,2.0,138.48,Asiakas 018
+T100982,2026-05-24,Tulostin,Toimistolaitteet,Keski-Suomi,5.0,276.04,Asiakas 041
+T100983,2026-05-09,Kuulokkeet,Tarvikkeet,Varsinais-Suomi,10.0,140.8,Asiakas 003
+T100984,2026-07-17,Tulostin,Toimistolaitteet,Pohjois-Karjala,8.0,246.2,Asiakas 082
+T100985,2026-05-20,Kuulokkeet,Tarvikkeet,Uusimaa,6.0,247.86,Asiakas 084
